@@ -16,6 +16,12 @@
 
     <properties>
         <java.version>25</java.version>
+        <lombok.version>1.18.42</lombok.version>
+
+        <!-- Plugins -->
+        <maven-surefire-plugin.version>3.5.4</maven-surefire-plugin.version>
+        <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version>
+        <maven.compiler.release>25</maven.compiler.release>
         <jacoco-maven-plugin.version>0.8.14</jacoco-maven-plugin.version>
     </properties>
     <dependencies>
@@ -60,7 +66,8 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <optional>true</optional>
+            <version>${lombok.version}</version>
+            <scope>provided</scope>
         </dependency>
 
         <!-- Testing -->
