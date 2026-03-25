@@ -18,7 +18,6 @@ import java.time.Duration;
  */
 @Slf4j
 @Component
-@RequiredArgsConstructor
 public class LidarrArtistClient {
 
     private static final String ENDPOINT_ARTIST = "/artist";
@@ -26,6 +25,10 @@ public class LidarrArtistClient {
     private static final String ENDPOINT_ARTIST_LOOKUP = "/artist/lookup";
 
     private final WebClient lidarrWebClient;
+
+    public LidarrArtistClient(WebClient webClient) {
+        this.lidarrWebClient = webClient;
+    }
 
     /**
      * Obtiene todos los artistas de la biblioteca de Lidarr.
