@@ -1,0 +1,284 @@
+{
+  "status": "continuing",
+  "ended": false,
+  "artistName": "Jeff Goldblum",
+  "foreignArtistId": "150fde6c-d8d6-4e59-8ff7-52cfe85497d9",
+  "tadbId": 0,
+  "discogsId": 0,
+  "artistType": "Person",
+  "disambiguation": "",
+  "links": [
+    {
+      "url": "https://www.imdb.com/name/nm0000156/",
+      "name": "imdb"
+    },
+    {
+      "url": "http://viaf.org/viaf/66656899",
+      "name": "viaf"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q106706",
+      "name": "wikidata"
+    },
+    {
+      "url": "https://www.discogs.com/artist/763451",
+      "name": "discogs"
+    },
+    {
+      "url": "http://www.lortel.org/Archives/CreditableEntity/10205",
+      "name": "lortel"
+    },
+    {
+      "url": "https://ibdb.com/broadway-cast-staff/jeff-goldblum-91657",
+      "name": "ibdb"
+    },
+    {
+      "url": "https://www.allmusic.com/artist/mn0000226001",
+      "name": "allmusic"
+    },
+    {
+      "url": "https://rateyourmusic.com/artist/jeff-goldblum",
+      "name": "rateyourmusic"
+    },
+    {
+      "url": "https://www.last.fm/music/Jeff%20Goldblum",
+      "name": "last"
+    },
+    {
+      "url": "https://d-nb.info/gnd/138208964",
+      "name": "d-nb"
+    },
+    {
+      "url": "http://id.loc.gov/authorities/names/no92022758",
+      "name": "loc"
+    },
+    {
+      "url": "https://www.worldcat.org/identities/lccn-no92022758/",
+      "name": "worldcat"
+    },
+    {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb13948667t",
+      "name": "bnf"
+    },
+    {
+      "url": "https://nla.gov.au/nla.party-917924",
+      "name": "gov"
+    },
+    {
+      "url": "http://snaccooperative.org/ark:/99166/w65x2gf2",
+      "name": "snaccooperative"
+    },
+    {
+      "url": "https://www.instagram.com/jeffgoldblum/",
+      "name": "instagram"
+    },
+    {
+      "url": "https://www.facebook.com/golblumofficial",
+      "name": "facebook"
+    },
+    {
+      "url": "https://www.songkick.com/artists/2855281",
+      "name": "songkick"
+    },
+    {
+      "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8",
+      "name": "spotify"
+    },
+    {
+      "url": "https://tidal.com/artist/9178931",
+      "name": "tidal"
+    },
+    {
+      "url": "https://secondhandsongs.com/artist/139249",
+      "name": "secondhandsongs"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Jeff_Goldblum_by_Gage_Skidmore.jpg",
+      "name": "wikimedia"
+    }
+  ],
+  "nextAlbum": null,
+  "lastAlbum": {
+    "title": "Still Blooming",
+    "overview": "",
+    "artistId": 396,
+    "foreignAlbumId": "48cfbc17-a25f-4a5c-9e30-7d79127411c4",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 2,
+    "duration": 0,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 0,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2025-04-25T00:00:00Z",
+    "releases": [],
+    "genres": [],
+    "media": [],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Jeff Goldblum",
+      "foreignArtistId": "150fde6c-d8d6-4e59-8ff7-52cfe85497d9",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.imdb.com/name/nm0000156/",
+          "name": "imdb"
+        },
+        {
+          "url": "http://viaf.org/viaf/66656899",
+          "name": "viaf"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q106706",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.discogs.com/artist/763451",
+          "name": "discogs"
+        },
+        {
+          "url": "http://www.lortel.org/Archives/CreditableEntity/10205",
+          "name": "lortel"
+        },
+        {
+          "url": "https://ibdb.com/broadway-cast-staff/jeff-goldblum-91657",
+          "name": "ibdb"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0000226001",
+          "name": "allmusic"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/jeff-goldblum",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "https://www.last.fm/music/Jeff%20Goldblum",
+          "name": "last"
+        },
+        {
+          "url": "https://d-nb.info/gnd/138208964",
+          "name": "d-nb"
+        },
+        {
+          "url": "http://id.loc.gov/authorities/names/no92022758",
+          "name": "loc"
+        },
+        {
+          "url": "https://www.worldcat.org/identities/lccn-no92022758/",
+          "name": "worldcat"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb13948667t",
+          "name": "bnf"
+        },
+        {
+          "url": "https://nla.gov.au/nla.party-917924",
+          "name": "gov"
+        },
+        {
+          "url": "http://snaccooperative.org/ark:/99166/w65x2gf2",
+          "name": "snaccooperative"
+        },
+        {
+          "url": "https://www.instagram.com/jeffgoldblum/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://www.facebook.com/golblumofficial",
+          "name": "facebook"
+        },
+        {
+          "url": "https://www.songkick.com/artists/2855281",
+          "name": "songkick"
+        },
+        {
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8",
+          "name": "spotify"
+        },
+        {
+          "url": "https://tidal.com/artist/9178931",
+          "name": "tidal"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/139249",
+          "name": "secondhandsongs"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Jeff_Goldblum_by_Gage_Skidmore.jpg",
+          "name": "wikimedia"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Jeff Goldblum",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "jeffgoldblum",
+      "sortName": "jeff goldblum",
+      "tags": [],
+      "added": "2026-03-25T09:21:08Z",
+      "addOptions": {
+        "searchForMissingAlbums": true,
+        "monitor": "existing",
+        "albumsToMonitor": [
+          "dff52d87-cb79-4b5d-acf3-85baab481ea0"
+        ],
+        "monitored": true
+      },
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 396
+    },
+    "images": [],
+    "links": [],
+    "id": 3263
+  },
+  "images": [],
+  "path": "/data/music/Jeff Goldblum",
+  "qualityProfileId": 2,
+  "metadataProfileId": 1,
+  "monitored": true,
+  "monitorNewItems": "all",
+  "rootFolderPath": "/data/music/",
+  "genres": [],
+  "cleanName": "jeffgoldblum",
+  "sortName": "jeff goldblum",
+  "tags": [],
+  "added": "2026-03-25T09:21:08Z",
+  "addOptions": {
+    "searchForMissingAlbums": true,
+    "monitor": "existing",
+    "albumsToMonitor": [
+      "dff52d87-cb79-4b5d-acf3-85baab481ea0"
+    ],
+    "monitored": true
+  },
+  "ratings": {
+    "votes": 0,
+    "value": 0
+  },
+  "statistics": {
+    "albumCount": 0,
+    "trackFileCount": 0,
+    "trackCount": 0,
+    "totalTrackCount": 0,
+    "sizeOnDisk": 0,
+    "percentOfTracks": 0
+  },
+  "id": 396
+}

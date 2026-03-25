@@ -1,0 +1,510 @@
+{
+  "status": "continuing",
+  "ended": false,
+  "artistName": "(həd) p.e.",
+  "foreignArtistId": "19516266-e5d9-4774-b749-812bb76a6559",
+  "tadbId": 0,
+  "discogsId": 0,
+  "artistType": "Group",
+  "disambiguation": "",
+  "links": [
+    {
+      "url": "https://www.discogs.com/artist/252717",
+      "name": "discogs"
+    },
+    {
+      "url": "https://myspace.com/hedpe",
+      "name": "myspace"
+    },
+    {
+      "url": "https://www.allmusic.com/artist/mn0000897382",
+      "name": "allmusic"
+    },
+    {
+      "url": "https://twitter.com/hedpe",
+      "name": "twitter"
+    },
+    {
+      "url": "https://www.facebook.com/hedpe",
+      "name": "facebook"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q158599",
+      "name": "wikidata"
+    },
+    {
+      "url": "https://rateyourmusic.com/artist/_hed__pe",
+      "name": "rateyourmusic"
+    },
+    {
+      "url": "https://www.last.fm/music/(h%C9%99d)+p.e.",
+      "name": "last"
+    },
+    {
+      "url": "http://viaf.org/viaf/159726848",
+      "name": "viaf"
+    },
+    {
+      "url": "https://www.youtube.com/hedpetv",
+      "name": "youtube"
+    },
+    {
+      "url": "https://www.instagram.com/therealhedpe/",
+      "name": "instagram"
+    },
+    {
+      "url": "http://hedp_e.livejournal.com/",
+      "name": "livejournal"
+    },
+    {
+      "url": "https://www.musik-sammler.de/artist/3048/",
+      "name": "musik-sammler"
+    },
+    {
+      "url": "https://d-nb.info/gnd/10326927-7",
+      "name": "d-nb"
+    },
+    {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb14517605v",
+      "name": "bnf"
+    },
+    {
+      "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v",
+      "name": "spotify"
+    },
+    {
+      "url": "https://www.deezer.com/artist/477357",
+      "name": "deezer"
+    },
+    {
+      "url": "https://itunes.apple.com/artist/id1487510",
+      "name": "apple"
+    },
+    {
+      "url": "https://www.songkick.com/artists/131307",
+      "name": "songkick"
+    },
+    {
+      "url": "https://music.amazon.com/artists/B0017P04TO",
+      "name": "amazon"
+    },
+    {
+      "url": "https://music.amazon.com/artists/B001BQWEJM",
+      "name": "amazon"
+    },
+    {
+      "url": "https://music.amazon.com/artists/B003Y42N6S",
+      "name": "amazon"
+    },
+    {
+      "url": "https://www.bandsintown.com/a/50239",
+      "name": "bandsintown"
+    },
+    {
+      "url": "https://genius.com/artists/Hed-pe",
+      "name": "genius"
+    },
+    {
+      "url": "https://www.imdb.com/name/nm3066859/",
+      "name": "imdb"
+    },
+    {
+      "url": "https://www.musixmatch.com/artist/h%C9%99d-p-e",
+      "name": "musixmatch"
+    },
+    {
+      "url": "https://us.napster.com/artist/hed-pe",
+      "name": "napster"
+    },
+    {
+      "url": "https://secondhandsongs.com/artist/10199",
+      "name": "secondhandsongs"
+    },
+    {
+      "url": "https://www.setlist.fm/setlists/hd-pe-13d4b5b1.html",
+      "name": "setlist"
+    },
+    {
+      "url": "https://www.spirit-of-metal.com/en/band/Hed_PE",
+      "name": "spirit-of-metal"
+    },
+    {
+      "url": "https://www.whosampled.com/Hed-PE/",
+      "name": "whosampled"
+    },
+    {
+      "url": "https://tidal.com/artist/7817659",
+      "name": "tidal"
+    },
+    {
+      "url": "https://tidal.com/artist/28917",
+      "name": "tidal"
+    },
+    {
+      "url": "https://us.7digital.com/artist/hed-p-e",
+      "name": "7digital"
+    },
+    {
+      "url": "https://www.deezer.com/artist/3045",
+      "name": "deezer"
+    },
+    {
+      "url": "https://music.apple.com/us/artist/1487510",
+      "name": "apple"
+    },
+    {
+      "url": "https://www.hedplanetearth.com/",
+      "name": "hedplanetearth"
+    },
+    {
+      "url": "http://www.hedperocks.com/",
+      "name": "hedperocks"
+    },
+    {
+      "url": "https://www.last.fm/music/(hed)+Planet+Earth",
+      "name": "last"
+    },
+    {
+      "url": "http://id.loc.gov/authorities/names/n2003082997",
+      "name": "loc"
+    },
+    {
+      "url": "https://www.worldcat.org/identities/lccn-n2003082997/",
+      "name": "worldcat"
+    }
+  ],
+  "nextAlbum": null,
+  "lastAlbum": {
+    "title": "New And Improved",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 1,
+    "foreignAlbumId": "79d88518-62f7-4765-b766-d5ef2edfeeb0",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 1,
+    "duration": 3053162,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2025-05-30T00:00:00Z",
+    "releases": [
+      {
+        "id": 7051,
+        "albumId": 634,
+        "foreignReleaseId": "f1d8ab21-b0a9-4ef8-b230-65907c368c58",
+        "title": "New And Improved",
+        "status": "Official",
+        "duration": 3053162,
+        "trackCount": 13,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [],
+        "label": [
+          "Cleopatra Records"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "(həd) p.e.",
+      "foreignArtistId": "19516266-e5d9-4774-b749-812bb76a6559",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/252717",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/hedpe",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0000897382",
+          "name": "allmusic"
+        },
+        {
+          "url": "https://twitter.com/hedpe",
+          "name": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/hedpe",
+          "name": "facebook"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q158599",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/_hed__pe",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "https://www.last.fm/music/(h%C9%99d)+p.e.",
+          "name": "last"
+        },
+        {
+          "url": "http://viaf.org/viaf/159726848",
+          "name": "viaf"
+        },
+        {
+          "url": "https://www.youtube.com/hedpetv",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.instagram.com/therealhedpe/",
+          "name": "instagram"
+        },
+        {
+          "url": "http://hedp_e.livejournal.com/",
+          "name": "livejournal"
+        },
+        {
+          "url": "https://www.musik-sammler.de/artist/3048/",
+          "name": "musik-sammler"
+        },
+        {
+          "url": "https://d-nb.info/gnd/10326927-7",
+          "name": "d-nb"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb14517605v",
+          "name": "bnf"
+        },
+        {
+          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/477357",
+          "name": "deezer"
+        },
+        {
+          "url": "https://itunes.apple.com/artist/id1487510",
+          "name": "apple"
+        },
+        {
+          "url": "https://www.songkick.com/artists/131307",
+          "name": "songkick"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B0017P04TO",
+          "name": "amazon"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B001BQWEJM",
+          "name": "amazon"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B003Y42N6S",
+          "name": "amazon"
+        },
+        {
+          "url": "https://www.bandsintown.com/a/50239",
+          "name": "bandsintown"
+        },
+        {
+          "url": "https://genius.com/artists/Hed-pe",
+          "name": "genius"
+        },
+        {
+          "url": "https://www.imdb.com/name/nm3066859/",
+          "name": "imdb"
+        },
+        {
+          "url": "https://www.musixmatch.com/artist/h%C9%99d-p-e",
+          "name": "musixmatch"
+        },
+        {
+          "url": "https://us.napster.com/artist/hed-pe",
+          "name": "napster"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/10199",
+          "name": "secondhandsongs"
+        },
+        {
+          "url": "https://www.setlist.fm/setlists/hd-pe-13d4b5b1.html",
+          "name": "setlist"
+        },
+        {
+          "url": "https://www.spirit-of-metal.com/en/band/Hed_PE",
+          "name": "spirit-of-metal"
+        },
+        {
+          "url": "https://www.whosampled.com/Hed-PE/",
+          "name": "whosampled"
+        },
+        {
+          "url": "https://tidal.com/artist/7817659",
+          "name": "tidal"
+        },
+        {
+          "url": "https://tidal.com/artist/28917",
+          "name": "tidal"
+        },
+        {
+          "url": "https://us.7digital.com/artist/hed-p-e",
+          "name": "7digital"
+        },
+        {
+          "url": "https://www.deezer.com/artist/3045",
+          "name": "deezer"
+        },
+        {
+          "url": "https://music.apple.com/us/artist/1487510",
+          "name": "apple"
+        },
+        {
+          "url": "https://www.hedplanetearth.com/",
+          "name": "hedplanetearth"
+        },
+        {
+          "url": "http://www.hedperocks.com/",
+          "name": "hedperocks"
+        },
+        {
+          "url": "https://www.last.fm/music/(hed)+Planet+Earth",
+          "name": "last"
+        },
+        {
+          "url": "http://id.loc.gov/authorities/names/n2003082997",
+          "name": "loc"
+        },
+        {
+          "url": "https://www.worldcat.org/identities/lccn-n2003082997/",
+          "name": "worldcat"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [
+        {
+          "url": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/logo/hed-pe-4f91e2aba6c09.png",
+          "coverType": "clearlogo",
+          "extension": ".png"
+        },
+        {
+          "url": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/banner/ttpvux1389109479.jpg",
+          "coverType": "banner",
+          "extension": ".jpg"
+        },
+        {
+          "url": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/fanart/hed-pe-4fc4b0679fc0f.jpg",
+          "coverType": "fanart",
+          "extension": ".jpg"
+        },
+        {
+          "url": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/thumb/yuxsxy1395452540.jpg",
+          "coverType": "poster",
+          "extension": ".jpg"
+        }
+      ],
+      "path": "/data/music/(həd) p.e",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [
+        "Nu Metal",
+        "Rapcore"
+      ],
+      "cleanName": "hədpe",
+      "sortName": "həd p e",
+      "tags": [],
+      "added": "2025-11-10T16:36:24Z",
+      "ratings": {
+        "votes": 1,
+        "value": 8.0
+      },
+      "id": 1
+    },
+    "images": [
+      {
+        "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/f1d8ab21-b0a9-4ef8-b230-65907c368c58/42099944388-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg"
+      }
+    ],
+    "links": [],
+    "id": 634
+  },
+  "images": [
+    {
+      "url": "/MediaCover/1/clearlogo.png?lastWrite=638983893848469386",
+      "coverType": "clearlogo",
+      "extension": ".png",
+      "remoteUrl": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/logo/hed-pe-4f91e2aba6c09.png"
+    },
+    {
+      "url": "/MediaCover/1/banner.jpg?lastWrite=638983893857209860",
+      "coverType": "banner",
+      "extension": ".jpg",
+      "remoteUrl": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/banner/ttpvux1389109479.jpg"
+    },
+    {
+      "url": "/MediaCover/1/fanart.jpg?lastWrite=638983893855011279",
+      "coverType": "fanart",
+      "extension": ".jpg",
+      "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/fanart/hed-pe-4fc4b0679fc0f.jpg"
+    },
+    {
+      "url": "/MediaCover/1/poster.jpg?lastWrite=638983893852256184",
+      "coverType": "poster",
+      "extension": ".jpg",
+      "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/thumb/yuxsxy1395452540.jpg"
+    }
+  ],
+  "path": "/data/music/(həd) p.e",
+  "qualityProfileId": 2,
+  "metadataProfileId": 1,
+  "monitored": true,
+  "monitorNewItems": "all",
+  "rootFolderPath": "/data/music/",
+  "genres": [
+    "Nu Metal",
+    "Rapcore"
+  ],
+  "cleanName": "hədpe",
+  "sortName": "həd p e",
+  "tags": [],
+  "added": "2025-11-10T16:36:24Z",
+  "ratings": {
+    "votes": 1,
+    "value": 8.0
+  },
+  "statistics": {
+    "albumCount": 15,
+    "trackFileCount": 42,
+    "trackCount": 246,
+    "totalTrackCount": 246,
+    "sizeOnDisk": 1154057710,
+    "percentOfTracks": 17.073170731707317073170731710
+  },
+  "id": 1
+}

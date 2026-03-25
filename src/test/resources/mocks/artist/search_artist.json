@@ -1,0 +1,794 @@
+[
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "(həd) p.e.",
+    "foreignArtistId": "19516266-e5d9-4774-b749-812bb76a6559",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Group",
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/252717",
+        "name": "discogs"
+      },
+      {
+        "url": "https://myspace.com/hedpe",
+        "name": "myspace"
+      },
+      {
+        "url": "https://www.allmusic.com/artist/mn0000897382",
+        "name": "allmusic"
+      },
+      {
+        "url": "https://twitter.com/hedpe",
+        "name": "twitter"
+      },
+      {
+        "url": "https://www.facebook.com/hedpe",
+        "name": "facebook"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q158599",
+        "name": "wikidata"
+      },
+      {
+        "url": "https://rateyourmusic.com/artist/_hed__pe",
+        "name": "rateyourmusic"
+      },
+      {
+        "url": "https://www.last.fm/music/(h%C9%99d)+p.e.",
+        "name": "last"
+      },
+      {
+        "url": "http://viaf.org/viaf/159726848",
+        "name": "viaf"
+      },
+      {
+        "url": "https://www.youtube.com/hedpetv",
+        "name": "youtube"
+      },
+      {
+        "url": "https://www.instagram.com/therealhedpe/",
+        "name": "instagram"
+      },
+      {
+        "url": "http://hedp_e.livejournal.com/",
+        "name": "livejournal"
+      },
+      {
+        "url": "https://www.musik-sammler.de/artist/3048/",
+        "name": "musik-sammler"
+      },
+      {
+        "url": "https://d-nb.info/gnd/10326927-7",
+        "name": "d-nb"
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb14517605v",
+        "name": "bnf"
+      },
+      {
+        "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v",
+        "name": "spotify"
+      },
+      {
+        "url": "https://www.deezer.com/artist/477357",
+        "name": "deezer"
+      },
+      {
+        "url": "https://itunes.apple.com/artist/id1487510",
+        "name": "apple"
+      },
+      {
+        "url": "https://www.songkick.com/artists/131307",
+        "name": "songkick"
+      },
+      {
+        "url": "https://music.amazon.com/artists/B0017P04TO",
+        "name": "amazon"
+      },
+      {
+        "url": "https://music.amazon.com/artists/B001BQWEJM",
+        "name": "amazon"
+      },
+      {
+        "url": "https://music.amazon.com/artists/B003Y42N6S",
+        "name": "amazon"
+      },
+      {
+        "url": "https://www.bandsintown.com/a/50239",
+        "name": "bandsintown"
+      },
+      {
+        "url": "https://genius.com/artists/Hed-pe",
+        "name": "genius"
+      },
+      {
+        "url": "https://www.imdb.com/name/nm3066859/",
+        "name": "imdb"
+      },
+      {
+        "url": "https://www.musixmatch.com/artist/h%C9%99d-p-e",
+        "name": "musixmatch"
+      },
+      {
+        "url": "https://us.napster.com/artist/hed-pe",
+        "name": "napster"
+      },
+      {
+        "url": "https://secondhandsongs.com/artist/10199",
+        "name": "secondhandsongs"
+      },
+      {
+        "url": "https://www.setlist.fm/setlists/hd-pe-13d4b5b1.html",
+        "name": "setlist"
+      },
+      {
+        "url": "https://www.spirit-of-metal.com/en/band/Hed_PE",
+        "name": "spirit-of-metal"
+      },
+      {
+        "url": "https://www.whosampled.com/Hed-PE/",
+        "name": "whosampled"
+      },
+      {
+        "url": "https://tidal.com/artist/7817659",
+        "name": "tidal"
+      },
+      {
+        "url": "https://tidal.com/artist/28917",
+        "name": "tidal"
+      },
+      {
+        "url": "https://us.7digital.com/artist/hed-p-e",
+        "name": "7digital"
+      },
+      {
+        "url": "https://www.deezer.com/artist/3045",
+        "name": "deezer"
+      },
+      {
+        "url": "https://music.apple.com/us/artist/1487510",
+        "name": "apple"
+      },
+      {
+        "url": "https://www.hedplanetearth.com/",
+        "name": "hedplanetearth"
+      },
+      {
+        "url": "http://www.hedperocks.com/",
+        "name": "hedperocks"
+      },
+      {
+        "url": "https://www.last.fm/music/(hed)+Planet+Earth",
+        "name": "last"
+      },
+      {
+        "url": "http://id.loc.gov/authorities/names/n2003082997",
+        "name": "loc"
+      },
+      {
+        "url": "https://www.worldcat.org/identities/lccn-n2003082997/",
+        "name": "worldcat"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [
+      {
+        "url": "/MediaCover/1/clearlogo.png?lastWrite=638983893848469386",
+        "coverType": "clearlogo",
+        "extension": ".png",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/logo/hed-pe-4f91e2aba6c09.png"
+      },
+      {
+        "url": "/MediaCover/1/banner.jpg?lastWrite=638983893857209860",
+        "coverType": "banner",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://www.theaudiodb.com/images/media/artist/banner/ttpvux1389109479.jpg"
+      },
+      {
+        "url": "/MediaCover/1/fanart.jpg?lastWrite=638983893855011279",
+        "coverType": "fanart",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/fanart/hed-pe-4fc4b0679fc0f.jpg"
+      },
+      {
+        "url": "/MediaCover/1/poster.jpg?lastWrite=638983893852256184",
+        "coverType": "poster",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/thumb/yuxsxy1395452540.jpg"
+      }
+    ],
+    "path": "/data/music/(həd) p.e",
+    "qualityProfileId": 2,
+    "metadataProfileId": 1,
+    "monitored": true,
+    "monitorNewItems": "all",
+    "folder": "(həd) p.e",
+    "genres": [
+      "Nu Metal",
+      "Rapcore"
+    ],
+    "cleanName": "hədpe",
+    "sortName": "həd p e",
+    "tags": [],
+    "added": "2025-11-10T16:36:24Z",
+    "ratings": {
+      "votes": 1,
+      "value": 8.0
+    },
+    "id": 1
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Frost Per Hed",
+    "foreignArtistId": "39796364-4870-499c-89b6-f52ac555310d",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Person",
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Frost Per Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed",
+    "foreignArtistId": "e2f6ee9d-328e-4ac9-860e-b45e2586f12f",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "feat. artist on Hirudo's \"Where Are You Now?\"",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/6617764",
+        "name": "discogs"
+      },
+      {
+        "url": "https://open.spotify.com/artist/3WLlleNQCyiIsuxjaXAcxp",
+        "name": "spotify"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "HED",
+    "foreignArtistId": "c7c7c0a5-3fed-4e34-85aa-d7a92b822167",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Group",
+    "disambiguation": "Thai band",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "HED",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Boys",
+    "foreignArtistId": "ddd8cf00-4a6c-4642-8dc3-41742f08581e",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Group",
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/17610",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Boys",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Rush",
+    "foreignArtistId": "a05a75dd-62aa-416a-9a56-2f9dbe8b80eb",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Person",
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Rush",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "HED UK",
+    "foreignArtistId": "f1b5fb9a-3f3f-496d-bf37-3c05d66284d8",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/32397",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "HED UK",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed #3",
+    "foreignArtistId": "33bd1330-589a-4589-a269-ef8ac21f723a",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed #3",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Brad Hed",
+    "foreignArtistId": "3cbc62ac-d654-4e9b-8135-323cfc157f6b",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Group",
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/1000905",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Brad Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "DJ Hed",
+    "foreignArtistId": "46642404-57a5-49bc-a42f-1c0300d17a00",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Person",
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "DJ Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Kandi",
+    "foreignArtistId": "62df8998-4af5-498f-a334-9e7e71216701",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/687699",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [
+      {
+        "url": "/MediaCoverProxy/6b1b7dddd9f30fa4a5ce9adfd6f284984a634a1f886bf052d0acd7f5759271b5/ustwuv1382548447.jpg",
+        "coverType": "fanart",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/fanart/ustwuv1382548447.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/b81cfb58cbe73de411e2c74724ead85feacb8684fe89f4763aa0ab8de782cc48/vutqww1406954016.png",
+        "coverType": "clearlogo",
+        "extension": ".png",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/logo/vutqww1406954016.png"
+      },
+      {
+        "url": "/MediaCoverProxy/3e6b554c1a42e1a8a81a73a9077d9a6a78364a299de83a42541b7abde4299273/vtqxws1382548566.jpg",
+        "coverType": "poster",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/thumb/vtqxws1382548566.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/a8158ef88fbaf528e56ed9a077f56b6d64a77ead23973cd748feeb1718ae56ce/ypvqwv1406954245.jpg",
+        "coverType": "banner",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://r2.theaudiodb.com/images/media/artist/banner/ypvqwv1406954245.jpg"
+      }
+    ],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Kandi",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Shotz",
+    "foreignArtistId": "62324d52-1987-4f88-a653-d4c150449e35",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Group",
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/7638383",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Shotz",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Kandi Glitterarti",
+    "foreignArtistId": "28cb6b71-5bb1-4213-9a84-4b160c047406",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Kandi Glitterarti",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Marcus Werner Hed",
+    "foreignArtistId": "ec00e2d6-b1d6-4062-9fbc-0ccc28584dee",
+    "tadbId": 0,
+    "discogsId": 0,
+    "artistType": "Person",
+    "disambiguation": "photographer",
+    "links": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q27050629",
+        "name": "wikidata"
+      },
+      {
+        "url": "https://www.discogs.com/artist/1828189",
+        "name": "discogs"
+      },
+      {
+        "url": "https://www.imdb.com/name/nm3386108/",
+        "name": "imdb"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Marcus Werner Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "HED Ardennes",
+    "foreignArtistId": "b68f3b98-21c1-4679-9d22-fa1d98e94d5a",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "HED Ardennes",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Jed Hed",
+    "foreignArtistId": "6ff94422-3860-464d-956c-ebab1a7d529c",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://www.discogs.com/artist/5948888",
+        "name": "discogs"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Jed Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed Ubd",
+    "foreignArtistId": "4ec15dde-511a-435c-8c7e-95fec8b24f92",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed Ubd",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Hed'L'Vyz",
+    "foreignArtistId": "f620ace6-d232-4a7a-a3ed-23999a5b27e4",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Hed'L'Vyz",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Squadron Hed",
+    "foreignArtistId": "4bac1bef-1066-4d27-9a14-04d9df9bdf09",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Squadron Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  },
+  {
+    "status": "continuing",
+    "ended": false,
+    "artistName": "Kimmy Hed",
+    "foreignArtistId": "ee5f9e47-2f09-41ba-bf41-368af193fff4",
+    "tadbId": 0,
+    "discogsId": 0,
+    "disambiguation": "",
+    "links": [
+      {
+        "url": "https://open.spotify.com/artist/1JUUECN9CDbIF737KBCPii",
+        "name": "spotify"
+      },
+      {
+        "url": "https://tidal.com/artist/56125357",
+        "name": "tidal"
+      }
+    ],
+    "nextAlbum": null,
+    "lastAlbum": null,
+    "images": [],
+    "qualityProfileId": 0,
+    "metadataProfileId": 0,
+    "monitored": false,
+    "monitorNewItems": "all",
+    "folder": "Kimmy Hed",
+    "genres": [],
+    "tags": [],
+    "added": "0001-01-01T00:14:00Z",
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    }
+  }
+]
