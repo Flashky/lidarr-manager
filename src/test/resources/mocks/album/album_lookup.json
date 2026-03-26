@@ -1,0 +1,2961 @@
+[
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "0f180796-2f64-35fb-a62e-bf690dcf7229",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 4337994,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2002-11-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "569f98b2-6c61-4587-af98-f56fb143cf69",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 4337994,
+        "trackCount": 18,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [],
+        "label": [],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "86c58cc7-9996-435a-a82a-2277f86256cd",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 4337994,
+        "trackCount": 18,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "France"
+        ],
+        "label": [
+          "Delabel"
+        ],
+        "format": "CD",
+        "monitored": false
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Akhenaton",
+      "foreignArtistId": "55808e24-5150-4abd-b86b-7c3d7a080da3",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper / Producer",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/126111",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0000613453",
+          "name": "allmusic"
+        },
+        {
+          "url": "https://twitter.com/akhenatoniam",
+          "name": "twitter"
+        },
+        {
+          "url": "https://myspace.com/akhenatoniam",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.facebook.com/AKHENATON.OFFICIEL",
+          "name": "facebook"
+        },
+        {
+          "url": "http://viaf.org/viaf/59278269",
+          "name": "viaf"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q417651",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu",
+          "name": "spotify"
+        },
+        {
+          "url": "http://www.akh-official.com/",
+          "name": "akh-official"
+        },
+        {
+          "url": "https://d-nb.info/gnd/135216354",
+          "name": "d-nb"
+        },
+        {
+          "url": "http://id.loc.gov/authorities/names/no2007080457",
+          "name": "loc"
+        },
+        {
+          "url": "https://www.worldcat.org/identities/lccn-no2007080457",
+          "name": "worldcat"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb13984232x",
+          "name": "bnf"
+        },
+        {
+          "url": "https://www.imdb.com/name/nm0015254/",
+          "name": "imdb"
+        },
+        {
+          "url": "https://genius.com/artists/Akhenaton",
+          "name": "genius"
+        },
+        {
+          "url": "http://snaccooperative.org/ark:/99166/w66h4mnb",
+          "name": "snaccooperative"
+        },
+        {
+          "url": "https://www.instagram.com/akhenatoniam/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCvKe03MdSof4JR99FaRCN9w",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.deezer.com/artist/49",
+          "name": "deezer"
+        },
+        {
+          "url": "https://itunes.apple.com/us/artist/id250972896",
+          "name": "apple"
+        },
+        {
+          "url": "https://www.songkick.com/artists/483167",
+          "name": "songkick"
+        },
+        {
+          "url": "https://tidal.com/artist/3666430",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 1,
+        "value": 8.0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/677b6a562bb2c7f5facf3349a97ba202b5799a8570cfecf09c60848c4b41b3bd/18612446240-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/569f98b2-6c61-4587-af98-f56fb143cf69/18612446240-1200.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/5b18634b490fab913cc91a7ddecbe4c085a2e1122d88e20c065d83fd55859273/1305312369-1200.jpg",
+        "coverType": "disc",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/86c58cc7-9996-435a-a82a-2277f86256cd/1305312369-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.discogs.com/master/101030",
+        "name": "discogs"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2905300",
+        "name": "wikidata"
+      },
+      {
+        "url": "https://www.allmusic.com/album/mw0000501698",
+        "name": "allmusic"
+      },
+      {
+        "url": "https://genius.com/albums/Akhenaton/Black-album",
+        "name": "genius"
+      }
+    ],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/569f98b2-6c61-4587-af98-f56fb143cf69/18612446240-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "e8ef7d53-1c9e-3be5-bb63-a1d48b533db7",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3630000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2006-03-20T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "a02a19bf-28f6-42d5-b911-a2098de00251",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3630000,
+        "trackCount": 18,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "France"
+        ],
+        "label": [
+          "45 Scientific"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "ended",
+      "ended": true,
+      "artistName": "Lunatic",
+      "foreignArtistId": "c4dc0648-cf89-4e38-81de-28ab8a2a41b9",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "French rap group",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/513455",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q265830",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.songkick.com/artists/34537",
+          "name": "songkick"
+        },
+        {
+          "url": "https://open.spotify.com/artist/2T94BUd6X8J1G5EfJj3hZr",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/3574",
+          "name": "deezer"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/988129505",
+          "name": "apple"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/d40d59681d8072f4a299d2904a6d51ca7186c353a43c9c5b5326d41e14a2f68a/34885874781-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/a02a19bf-28f6-42d5-b911-a2098de00251/34885874781-1200.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/f480227793d9d72d14ab797f84f1a92581cf98f02fd26367eeda1d75226b3bfc/34885876512-1200.jpg",
+        "coverType": "disc",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/a02a19bf-28f6-42d5-b911-a2098de00251/34885876512-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://genius.com/albums/Lunatic/Black-album",
+        "name": "genius"
+      },
+      {
+        "url": "https://www.abcdrduson.com/chroniques/black-album-2/",
+        "name": "abcdrduson"
+      },
+      {
+        "url": "https://www.radiofrance.fr/mouv/lunatic-les-15-ans-du-black-album-7687633",
+        "name": "radiofrance"
+      }
+    ],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/a02a19bf-28f6-42d5-b911-a2098de00251/34885874781-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "428251df-d97b-4154-9e31-ac37425461b3",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 0,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2007-09-04T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "3d7a22e7-640c-43ec-b1c9-02749d390e23",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 0,
+        "trackCount": 18,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "[no label]"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Displomen",
+      "foreignArtistId": "b057660f-32e4-420e-b5f2-b4e89cd1af28",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/a16a697e375024ac9573b153f1b4a2d04c2bac9d3bf76665502eeac89535229d/831954772-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/3d7a22e7-640c-43ec-b1c9-02749d390e23/831954772-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/3d7a22e7-640c-43ec-b1c9-02749d390e23/831954772-1200.jpg"
+  },
+  {
+    "title": "BLACK ALBUM",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "4759d131-8215-4e25-b180-5100f351d0a9",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 2256011,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2010-02-17T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "ced4be9c-4563-4039-bfae-0243abcb80b2",
+        "title": "BLACK ALBUM",
+        "status": "Official",
+        "duration": 2256011,
+        "trackCount": 8,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Japan"
+        ],
+        "label": [
+          "EVOL RECORDS"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "VELTPUNCH",
+      "foreignArtistId": "2726c78c-fee9-4c78-8a85-37e1b674121d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "http://www.geocities.jp/veltpunch2004/",
+          "name": "geocities"
+        },
+        {
+          "url": "https://www.youtube.com/user/veltpunchmusic",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.last.fm/music/VELTPUNCH",
+          "name": "last"
+        },
+        {
+          "url": "https://twitter.com/vp_official",
+          "name": "twitter"
+        },
+        {
+          "url": "https://itunes.apple.com/us/artist/id151405340",
+          "name": "apple"
+        },
+        {
+          "url": "https://archive.is/knJfN",
+          "name": "archive"
+        },
+        {
+          "url": "https://www.discogs.com/artist/2808004",
+          "name": "discogs"
+        },
+        {
+          "url": "https://veltpunch.net/",
+          "name": "veltpunch"
+        },
+        {
+          "url": "https://vgmdb.net/artist/24538",
+          "name": "vgmdb"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q7919336",
+          "name": "wikidata"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Rock"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/b12337a69e6102165c4de11701d2b100cb6de2da1ab1f11fe0cae7222768d032/6232513211-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/ced4be9c-4563-4039-bfae-0243abcb80b2/6232513211-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/ced4be9c-4563-4039-bfae-0243abcb80b2/6232513211-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "6b68b7aa-8cd9-4205-aacd-72fb8ac93fb5",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 2119000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2011-08-26T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "ee9a2164-db8e-4332-82e2-50fa4c32d7a7",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 2119000,
+        "trackCount": 8,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "Unknown",
+            "mediumFormat": "Unknown"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [],
+        "label": [],
+        "format": "Unknown",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "Unknown",
+        "mediumFormat": "Unknown"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Marsmobil",
+      "foreignArtistId": "3c174d9d-139b-4fa7-8f0b-ae8eceb4271c",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "http://www.marsmobil.net/",
+          "name": "marsmobil"
+        },
+        {
+          "url": "https://myspace.com/marsmobil",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.discogs.com/artist/106392",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.facebook.com/OfficialMarsmobil",
+          "name": "facebook"
+        },
+        {
+          "url": "https://open.spotify.com/artist/2G6DFv6oBkDn5HQotazo7G",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/202601",
+          "name": "deezer"
+        },
+        {
+          "url": "https://tidal.com/artist/3518501",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [],
+    "links": []
+  },
+  {
+    "title": "BLACK ALBUM",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "dd887611-f3fd-4545-bcb6-f804ec5db783",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 4599000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2013-03-27T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "9f7ddef8-9153-4a80-8b7f-43ffec65e078",
+        "title": "BLACK ALBUM",
+        "status": "Official",
+        "duration": 4599000,
+        "trackCount": 19,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Japan"
+        ],
+        "label": [
+          "KONAMI"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "0390ac62-68ae-49ef-ba0e-b8b48ab79950",
+        "title": "BLACK ALBUM",
+        "status": "Official",
+        "duration": 4608000,
+        "trackCount": 19,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "初回デジパック盤",
+        "country": [
+          "Japan"
+        ],
+        "label": [
+          "KONAMI"
+        ],
+        "format": "CD",
+        "monitored": false
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "96",
+      "foreignArtistId": "29b5e2d7-3800-40aa-bf7c-3cdc481ee25a",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "guitarist \"kuro\", ex-BEMANI",
+      "links": [
+        {
+          "url": "https://myspace.com/daisukekurosawa",
+          "name": "myspace"
+        },
+        {
+          "url": "http://kuro-music.com/",
+          "name": "kuro-music"
+        },
+        {
+          "url": "http://mp.i-revo.jp/user.php/96",
+          "name": "i-revo"
+        },
+        {
+          "url": "https://www.discogs.com/artist/1309998",
+          "name": "discogs"
+        },
+        {
+          "url": "https://vgmdb.net/artist/5922",
+          "name": "vgmdb"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/04361ac3f0a651b56e0df6b7ba5e20694cf5252b8a2171c41ae5722fdeea58b0/9538775813-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/9f7ddef8-9153-4a80-8b7f-43ffec65e078/9538775813-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/9f7ddef8-9153-4a80-8b7f-43ffec65e078/9538775813-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "e2983bce-a069-4758-bc47-e05405753c1d",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 2003997,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2006-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "d65e2f60-03fa-421b-8e8f-29f8057430ec",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 2003997,
+        "trackCount": 10,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "France"
+        ],
+        "label": [
+          "Nocturne"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Mr R",
+      "foreignArtistId": "5e147adf-9146-48ee-9828-998b5a794b8c",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper Richard Makela",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/275921",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q3080444",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.last.fm/music/Mr%20R",
+          "name": "last"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/monsieur_r",
+          "name": "rateyourmusic"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hip Hop",
+        "Political Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/82cdc93f97e833ba00db08143d25238b6533c5d7bd58c3158061a8b7c40fdd51/31119341521-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/d65e2f60-03fa-421b-8e8f-29f8057430ec/31119341521-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://rateyourmusic.com/release/album/monsieur_r/black_album/",
+        "name": "rateyourmusic"
+      }
+    ],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/d65e2f60-03fa-421b-8e8f-29f8057430ec/31119341521-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "625f97c4-f7d5-423a-b12b-d79e4e7b349f",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 1854000,
+    "albumType": "Album",
+    "secondaryTypes": [
+      "Compilation"
+    ],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2006-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "3ba02bce-2f6f-4777-9ea5-4fa9649c8eeb",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 1854000,
+        "trackCount": 7,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "France"
+        ],
+        "label": [],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Furax Barbarossa",
+      "foreignArtistId": "e1164802-5a16-46cc-90f3-42f2d6a9762d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/2221190",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/furaxbarbarossa",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q3090987",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.instagram.com/furax.barbarossa.officiel/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://genius.com/artists/Furax",
+          "name": "genius"
+        },
+        {
+          "url": "https://bastardprod.bandcamp.com/",
+          "name": "bandcamp"
+        },
+        {
+          "url": "https://www.deezer.com/artist/7024201",
+          "name": "deezer"
+        },
+        {
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.facebook.com/furaxbarbarossa.officiel",
+          "name": "facebook"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_b75K1rBwJaMy6_Wo2AY7A",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.last.fm/music/Furax%20Barbarossa",
+          "name": "last"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/furax_barbarossa",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "https://www.whosampled.com/Furax-Barbarossa/",
+          "name": "whosampled"
+        },
+        {
+          "url": "https://twitter.com/furaxbastard",
+          "name": "twitter"
+        },
+        {
+          "url": "https://www.bandsintown.com/a/2718655",
+          "name": "bandsintown"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B00PAH8OKQ",
+          "name": "amazon"
+        },
+        {
+          "url": "https://itunes.apple.com/fr/artist/id593903769",
+          "name": "apple"
+        },
+        {
+          "url": "https://www.furax-barbarossa.com/",
+          "name": "furax-barbarossa"
+        },
+        {
+          "url": "https://music.apple.com/fr/artist/593903769",
+          "name": "apple"
+        },
+        {
+          "url": "https://tidal.com/artist/6226824",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Conscious Hip Hop",
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/83a6ab5c07220d6ee214c171f356ea56abc9168168a8fb1867abc18023ebcb0a/11137983726-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/3ba02bce-2f6f-4777-9ea5-4fa9649c8eeb/11137983726-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://genius.com/albums/Furax/Black-album",
+        "name": "genius"
+      },
+      {
+        "url": "https://rateyourmusic.com/release/comp/furax/black_album/",
+        "name": "rateyourmusic"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2905301",
+        "name": "wikidata"
+      }
+    ],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/3ba02bce-2f6f-4777-9ea5-4fa9649c8eeb/11137983726-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "76f01fa2-1afa-46ca-93a4-d844d24778d8",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3529083,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2015-12-04T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "cdc2e2c8-fb71-4832-beca-9b726da95c44",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3529083,
+        "trackCount": 15,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "United States"
+        ],
+        "label": [
+          "Musicast"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Jeff Le Nerf",
+      "foreignArtistId": "ee836afb-4214-44c4-a9bc-ea46be37dd71",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper",
+      "links": [
+        {
+          "url": "https://myspace.com/jefflenerf",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.discogs.com/artist/1241971",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.facebook.com/JeffLeNerf",
+          "name": "facebook"
+        },
+        {
+          "url": "https://twitter.com/JeffLeNerf",
+          "name": "twitter"
+        },
+        {
+          "url": "http://www.jefflenerf.fr/",
+          "name": "jefflenerf"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q3176526",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://genius.com/artists/Jeff-le-nerf",
+          "name": "genius"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0000728116",
+          "name": "allmusic"
+        },
+        {
+          "url": "https://www.muziekweb.nl/Link/M00000214573/",
+          "name": "muziekweb"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/jeff_le_nerf",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "http://viaf.org/viaf/66676243",
+          "name": "viaf"
+        },
+        {
+          "url": "https://www.whosampled.com/Jeff-Le-Nerf/",
+          "name": "whosampled"
+        },
+        {
+          "url": "https://www.deezer.com/artist/15646",
+          "name": "deezer"
+        },
+        {
+          "url": "https://open.spotify.com/artist/6BmoZG6Z7N10aKb4yyoo27",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCPJ1TH0qWWvwCyCGPKDM83A",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.last.fm/music/Jeff%20Le%20Nerf",
+          "name": "last"
+        },
+        {
+          "url": "https://tidal.com/artist/3702534",
+          "name": "tidal"
+        },
+        {
+          "url": "https://music.apple.com/fr/artist/256445270",
+          "name": "apple"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/64166ec22e850981f5f51c878e5036bb87bbf31d64367f796a685b40ce6ccb95/12152597962-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/cdc2e2c8-fb71-4832-beca-9b726da95c44/12152597962-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/cdc2e2c8-fb71-4832-beca-9b726da95c44/12152597962-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "110072f4-d2d5-4ef1-8b3f-a323d9536c55",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 2602000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2018-08-14T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "7f3d390b-a8d2-448f-a3b0-f32b1459915c",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 2602000,
+        "trackCount": 13,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "France"
+        ],
+        "label": [
+          "Y&W"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Nekfeu",
+      "foreignArtistId": "d721866d-5640-44ee-87f7-23dd062abd8a",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper, $-Crew, 1995, L'Entourage",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/2167404",
+          "name": "discogs"
+        },
+        {
+          "url": "https://twitter.com/NEKFEU",
+          "name": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/nekfeu",
+          "name": "facebook"
+        },
+        {
+          "url": "https://www.youtube.com/user/NekfeuVEVO",
+          "name": "youtube"
+        },
+        {
+          "url": "https://genius.com/artists/Nekfeu",
+          "name": "genius"
+        },
+        {
+          "url": "https://soundcloud.com/nekfeu",
+          "name": "soundcloud"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q19897862",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.last.fm/music/Nekfeu",
+          "name": "last"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/nekfeu",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "http://nekfeu.fr/",
+          "name": "nekfeu"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0003001875",
+          "name": "allmusic"
+        },
+        {
+          "url": "http://viaf.org/viaf/316807787",
+          "name": "viaf"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb16973896s",
+          "name": "bnf"
+        },
+        {
+          "url": "http://www.nekfeu.fr/",
+          "name": "nekfeu"
+        },
+        {
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.songkick.com/artists/4293901",
+          "name": "songkick"
+        },
+        {
+          "url": "https://www.deezer.com/artist/1412564",
+          "name": "deezer"
+        },
+        {
+          "url": "https://tidal.com/artist/4504414",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/f4d9264354463831fd134124cb8e0f5d8caa361187422eeebe997cb76f10e83f/20734070484-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/7f3d390b-a8d2-448f-a3b0-f32b1459915c/20734070484-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/7f3d390b-a8d2-448f-a3b0-f32b1459915c/20734070484-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "5c0a8a75-5804-4f38-919f-a9d09dc3f645",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3461500,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2018-09-24T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "62481a99-aa45-4ccc-9c07-4830710a2f4b",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3461500,
+        "trackCount": 15,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "KillaBizz Records"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Dino Killabizz",
+      "foreignArtistId": "9f478732-7655-411b-bf17-8ee4becade7f",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "Paris-based French rapper/Deeno/Aucune Chance/Killabizz",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/2947012",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.facebook.com/DinoKillaBizzOfficiel",
+          "name": "facebook"
+        },
+        {
+          "url": "https://twitter.com/dinokillabizz",
+          "name": "twitter"
+        },
+        {
+          "url": "https://www.instagram.com/dinokillabizz/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://www.youtube.com/dinokillabizz",
+          "name": "youtube"
+        },
+        {
+          "url": "https://itunes.apple.com/us/artist/id623558679",
+          "name": "apple"
+        },
+        {
+          "url": "https://open.spotify.com/artist/64zjukkPUBHcWFYXjDfVmw",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/4552232",
+          "name": "deezer"
+        },
+        {
+          "url": "https://open.spotify.com/artist/6vf371G7nA2wgtRlTPQXAB",
+          "name": "spotify"
+        },
+        {
+          "url": "https://dinokillabizz.bandcamp.com/",
+          "name": "bandcamp"
+        },
+        {
+          "url": "https://www.discogs.com/artist/6972945",
+          "name": "discogs"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/623558679",
+          "name": "apple"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/623558679",
+          "name": "apple"
+        },
+        {
+          "url": "https://skeuddealers.wordpress.com/2012/03/11/interview-de-dino-aka-killbill-mc-crew-killabizz/",
+          "name": "wordpress"
+        },
+        {
+          "url": "https://lebonson.org/2014/12/18/dino-linterview-all-in/",
+          "name": "lebonson"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/1671819470",
+          "name": "apple"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/1671819470",
+          "name": "apple"
+        },
+        {
+          "url": "https://open.spotify.com/artist/20dA5n5P89skg8v7AOe5PS",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/201685957",
+          "name": "deezer"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B0BVRJZ92F",
+          "name": "amazon"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B00BX9134Y",
+          "name": "amazon"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCjom-OepGdsAjgiIesBbD_g",
+          "name": "youtube"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/0524bff1f77ba13a453a2912cf728fc33cfb050d00e9a20fc6507cff8312ef94/27765522865-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/62481a99-aa45-4ccc-9c07-4830710a2f4b/27765522865-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/62481a99-aa45-4ccc-9c07-4830710a2f4b/27765522865-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "8da2b1a2-a8df-4c07-b15a-19d23eaae88e",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 0,
+    "albumType": "Album",
+    "secondaryTypes": [
+      "Compilation"
+    ],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2016-10-06T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "8a70b3c4-6370-48d9-bbae-9cc4527a3cf8",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 0,
+        "trackCount": 14,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD-R"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Russia"
+        ],
+        "label": [
+          "Sierpien Records"
+        ],
+        "format": "CD-R",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Dark Wave",
+      "Electronic",
+      "Post-Punk",
+      "Rock",
+      "Coldwave"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD-R"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Supernova 1006",
+      "foreignArtistId": "338ba24f-c0bc-4d11-a0c3-45df0416424a",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "Coldwave / Post-punk",
+      "links": [
+        {
+          "url": "https://supernova1006.bandcamp.com/",
+          "name": "bandcamp"
+        },
+        {
+          "url": "https://www.facebook.com/sn1006band",
+          "name": "facebook"
+        },
+        {
+          "url": "https://soundcloud.com/supernova1006band",
+          "name": "soundcloud"
+        },
+        {
+          "url": "https://vk.com/supernova1006",
+          "name": "vk"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCgHaLXSJIXFL2yuw9T1v0Hw",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.discogs.com/artist/4306094",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/supernova1006",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q67186287",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://open.spotify.com/artist/1NIk8nxtiRbQuib3gWrcZV",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.deezer.com/artist/9301714",
+          "name": "deezer"
+        },
+        {
+          "url": "https://music.apple.com/gb/artist/1059724300",
+          "name": "apple"
+        },
+        {
+          "url": "https://tidal.com/artist/7395435",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Post-Punk",
+        "Shoegaze",
+        "Coldwave"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/36b3766baf7b7c49a6cb0a81d001ab4a30a099a7ef3a7de91db3b565b59a0203/41787387587-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/8a70b3c4-6370-48d9-bbae-9cc4527a3cf8/41787387587-1200.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/0e6bc7085c372f6e82be79993253f27fa3537fd7371bb92cf032810455875dfa/41787389651-1200.jpg",
+        "coverType": "disc",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/8a70b3c4-6370-48d9-bbae-9cc4527a3cf8/41787389651-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/8a70b3c4-6370-48d9-bbae-9cc4527a3cf8/41787387587-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "b63563ea-e099-486d-9eac-474f2396dc9f",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 0,
+    "albumType": "Album",
+    "secondaryTypes": [
+      "Compilation"
+    ],
+    "mediumCount": 3,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "1978-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "9bdc7331-a14d-40ea-b212-974a5537dd81",
+        "title": "Black Album",
+        "status": "Bootleg",
+        "duration": 0,
+        "trackCount": 44,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "Beautiful Delilah",
+            "mediumFormat": "12\" Vinyl"
+          },
+          {
+            "mediumNumber": 2,
+            "mediumName": "Rape of the Vaults",
+            "mediumFormat": "12\" Vinyl"
+          },
+          {
+            "mediumNumber": 3,
+            "mediumName": "Gravestones",
+            "mediumFormat": "12\" Vinyl"
+          }
+        ],
+        "mediumCount": 3,
+        "disambiguation": "",
+        "country": [
+          "Italy"
+        ],
+        "label": [
+          "[no label]"
+        ],
+        "format": "3x12\" Vinyl",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "Beautiful Delilah",
+        "mediumFormat": "12\" Vinyl"
+      },
+      {
+        "mediumNumber": 2,
+        "mediumName": "Rape of the Vaults",
+        "mediumFormat": "12\" Vinyl"
+      },
+      {
+        "mediumNumber": 3,
+        "mediumName": "Gravestones",
+        "mediumFormat": "12\" Vinyl"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "The Rolling Stones",
+      "foreignArtistId": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "http://www.rollingstones.com/",
+          "name": "rollingstones"
+        },
+        {
+          "url": "http://musicmoz.org/Bands_and_Artists/R/Rolling_Stones/",
+          "name": "musicmoz"
+        },
+        {
+          "url": "https://www.discogs.com/artist/20991",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCB_Z6rBg3WW3NL4-QimhC2A",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.imdb.com/name/nm1213869/",
+          "name": "imdb"
+        },
+        {
+          "url": "https://www.bbc.co.uk/music/artists/b071f9fa-14b0-4217-8e97-eb41da73f598",
+          "name": "bbc"
+        },
+        {
+          "url": "http://www.timeisonourside.com/",
+          "name": "timeisonourside"
+        },
+        {
+          "url": "http://www.beggarsbanquetonline.com/",
+          "name": "beggarsbanquetonline"
+        },
+        {
+          "url": "https://www.rockhall.com/inductees/rolling-stones#bio",
+          "name": "rockhall"
+        },
+        {
+          "url": "https://www.allmusic.com/artist/mn0000894465",
+          "name": "allmusic"
+        },
+        {
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.facebook.com/therollingstones",
+          "name": "facebook"
+        },
+        {
+          "url": "http://viaf.org/viaf/156609707",
+          "name": "viaf"
+        },
+        {
+          "url": "https://www.last.fm/music/The+Rolling+Stones",
+          "name": "last"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q11036",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/the-rolling-stones",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg",
+          "name": "wikimedia"
+        },
+        {
+          "url": "https://twitter.com/RollingStones",
+          "name": "twitter"
+        },
+        {
+          "url": "https://myspace.com/therollingstones",
+          "name": "myspace"
+        },
+        {
+          "url": "http://www.deezer.com/artist/11",
+          "name": "deezer"
+        },
+        {
+          "url": "https://genius.com/artists/The-rolling-stones",
+          "name": "genius"
+        },
+        {
+          "url": "https://imvdb.com/n/the-rolling-stones",
+          "name": "imvdb"
+        },
+        {
+          "url": "https://www.45cat.com/artist/the-rolling-stones",
+          "name": "45cat"
+        },
+        {
+          "url": "https://www.whosampled.com/The-Rolling-Stones/",
+          "name": "whosampled"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/206",
+          "name": "secondhandsongs"
+        },
+        {
+          "url": "https://play.google.com/store/music/artist?id=Awzwm4jcbbi6kjfvsetcte5mdbq",
+          "name": "google"
+        },
+        {
+          "url": "https://www.instagram.com/therollingstones/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://plus.google.com/+TheRollingStones/posts",
+          "name": "google"
+        },
+        {
+          "url": "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html",
+          "name": "setlist"
+        },
+        {
+          "url": "https://www.bandsintown.com/a/1002",
+          "name": "bandsintown"
+        },
+        {
+          "url": "https://www.songkick.com/artists/379603",
+          "name": "songkick"
+        },
+        {
+          "url": "https://www.amazon.de/-/e/B000APYW40",
+          "name": "amazon"
+        },
+        {
+          "url": "https://d-nb.info/gnd/2074630-1",
+          "name": "d-nb"
+        },
+        {
+          "url": "http://id.loc.gov/authorities/names/n80123108",
+          "name": "loc"
+        },
+        {
+          "url": "https://www.worldcat.org/identities/lccn-n80123108",
+          "name": "worldcat"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb13906219j",
+          "name": "bnf"
+        },
+        {
+          "url": "https://tidal.com/artist/573",
+          "name": "tidal"
+        },
+        {
+          "url": "https://music.apple.com/us/artist/1249595",
+          "name": "apple"
+        },
+        {
+          "url": "https://music.apple.com/us/artist/1249595",
+          "name": "apple"
+        },
+        {
+          "url": "https://soundcloud.com/rolling-stones-official",
+          "name": "soundcloud"
+        },
+        {
+          "url": "https://www.musik-sammler.de/artist/the-rolling-stones/",
+          "name": "musik-sammler"
+        },
+        {
+          "url": "https://fanart.tv/artist/b071f9fa-14b0-4217-8e97-eb41da73f598/",
+          "name": "fanart"
+        },
+        {
+          "url": "https://www.tiktok.com/@therollingstones",
+          "name": "tiktok"
+        },
+        {
+          "url": "https://music.youtube.com/channel/UCNYhhkQqeFLUc-YEDcLpSYQ",
+          "name": "youtube"
+        },
+        {
+          "url": "https://jaxsta.com/profile/03f81dde-65de-4e58-a310-5f6f66a9e9d0",
+          "name": "jaxsta"
+        },
+        {
+          "url": "https://muzikum.eu/en/the-rolling-stones/lyrics",
+          "name": "muzikum"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Classic Rock",
+        "Psychedelic Rock",
+        "British Rhythm & Blues",
+        "Pop Rock",
+        "Rock And Roll",
+        "Blues"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 23,
+        "value": 9.3
+      }
+    },
+    "images": [],
+    "links": []
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "50ad4345-e9bc-438b-96f3-21935b2c8cd5",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3411000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2006-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "c4bf4a5c-7738-489c-8087-d714eee8c0f6",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3411000,
+        "trackCount": 13,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "Réédition",
+        "country": [
+          "France"
+        ],
+        "label": [],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "86e065c6-61f3-4f8a-b614-564051bfba03",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3215884,
+        "trackCount": 12,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "Barbarossa",
+          "Bim Bam Prod"
+        ],
+        "format": "Digital Media",
+        "monitored": false
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Furax Barbarossa",
+      "foreignArtistId": "e1164802-5a16-46cc-90f3-42f2d6a9762d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Person",
+      "disambiguation": "French rapper",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/2221190",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/furaxbarbarossa",
+          "name": "myspace"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q3090987",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.instagram.com/furax.barbarossa.officiel/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://genius.com/artists/Furax",
+          "name": "genius"
+        },
+        {
+          "url": "https://bastardprod.bandcamp.com/",
+          "name": "bandcamp"
+        },
+        {
+          "url": "https://www.deezer.com/artist/7024201",
+          "name": "deezer"
+        },
+        {
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa",
+          "name": "spotify"
+        },
+        {
+          "url": "https://www.facebook.com/furaxbarbarossa.officiel",
+          "name": "facebook"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_b75K1rBwJaMy6_Wo2AY7A",
+          "name": "youtube"
+        },
+        {
+          "url": "https://www.last.fm/music/Furax%20Barbarossa",
+          "name": "last"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/furax_barbarossa",
+          "name": "rateyourmusic"
+        },
+        {
+          "url": "https://www.whosampled.com/Furax-Barbarossa/",
+          "name": "whosampled"
+        },
+        {
+          "url": "https://twitter.com/furaxbastard",
+          "name": "twitter"
+        },
+        {
+          "url": "https://www.bandsintown.com/a/2718655",
+          "name": "bandsintown"
+        },
+        {
+          "url": "https://music.amazon.com/artists/B00PAH8OKQ",
+          "name": "amazon"
+        },
+        {
+          "url": "https://itunes.apple.com/fr/artist/id593903769",
+          "name": "apple"
+        },
+        {
+          "url": "https://www.furax-barbarossa.com/",
+          "name": "furax-barbarossa"
+        },
+        {
+          "url": "https://music.apple.com/fr/artist/593903769",
+          "name": "apple"
+        },
+        {
+          "url": "https://tidal.com/artist/6226824",
+          "name": "tidal"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Conscious Hip Hop",
+        "Hip Hop"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/54e3ceff55d54db08716f691120bac98850e1b948f58c12ca6b16322a19d4389/27958002550-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/c4bf4a5c-7738-489c-8087-d714eee8c0f6/27958002550-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2905301",
+        "name": "wikidata"
+      },
+      {
+        "url": "https://genius.com/albums/Furax/Black-album-reedition",
+        "name": "genius"
+      },
+      {
+        "url": "https://www.discogs.com/master/1756224",
+        "name": "discogs"
+      }
+    ],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/c4bf4a5c-7738-489c-8087-d714eee8c0f6/27958002550-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "25a8fcd7-4dfc-48c9-b890-eeaed9f69f97",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3601000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "1995-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "09a171e8-954c-4ec2-bc63-5cd3777db581",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 3601000,
+        "trackCount": 17,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Germany"
+        ],
+        "label": [
+          "Biker-Music"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Blues Rock"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "ended",
+      "ended": true,
+      "artistName": "Consul Crayfish & The Blackouts",
+      "foreignArtistId": "70d07b6e-9e02-4210-b270-eb80301688c0",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/6597776",
+          "name": "discogs"
+        },
+        {
+          "url": "https://www.ndz.de/startseite_artikel,-als-die-boesen-jungs-die-buerger-erschreckten-_arid,443921.html",
+          "name": "ndz"
+        },
+        {
+          "url": "https://www.instagram.com/consulcrayfish/",
+          "name": "instagram"
+        },
+        {
+          "url": "https://soundcloud.com/toky-hameln/tracks",
+          "name": "soundcloud"
+        },
+        {
+          "url": "https://de.wikipedia.org/wiki/Consul_Crayfish_and_the_Blackouts",
+          "name": "wikipedia"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Blues Rock"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 1,
+        "value": 10.0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/88bfa8d5cb069429c35794133d7ab92713bb0077e1c5e94ad05bfbe8ba0f41e7/28370267580-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/09a171e8-954c-4ec2-bc63-5cd3777db581/28370267580-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/09a171e8-954c-4ec2-bc63-5cd3777db581/28370267580-1200.jpg"
+  },
+  {
+    "title": "BLACK ALBUM",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "797caa11-7c8f-4f40-ae62-2247d9141082",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 919000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2021-03-21T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "86bad486-1f41-466c-8553-336da27fd5c5",
+        "title": "BLACK ALBUM",
+        "status": "Official",
+        "duration": 919000,
+        "trackCount": 6,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Japan"
+        ],
+        "label": [
+          "SOUTH OF HEAVEN"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "SOUTH OF HEAVEN",
+      "foreignArtistId": "7aaa330e-9a8e-480b-bc8c-7114c2a6dd88",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "http://s-o-h.jp/",
+          "name": "s-o-h"
+        },
+        {
+          "url": "https://vgmdb.net/org/266",
+          "name": "vgmdb"
+        },
+        {
+          "url": "https://soundcloud.com/south-of-heaven-1/",
+          "name": "soundcloud"
+        },
+        {
+          "url": "http://s-o-h.com/",
+          "name": "s-o-h"
+        },
+        {
+          "url": "https://www.discogs.com/artist/8145855",
+          "name": "discogs"
+        },
+        {
+          "url": "https://s-o-h.booth.pm/",
+          "name": "booth"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/88fc77246c089219bfd06e8aabecc836de4f6cbf02eba0109ac3dd1c3e8f8e66/29576632450-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/86bad486-1f41-466c-8553-336da27fd5c5/29576632450-1200.jpg"
+      },
+      {
+        "url": "/MediaCoverProxy/6a1fdd2e914556b9b473a473a48caae7fcbba8a114b853cb98dfbf564b7ab5d5/29576636011-1200.jpg",
+        "coverType": "disc",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/86bad486-1f41-466c-8553-336da27fd5c5/29576636011-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/86bad486-1f41-466c-8553-336da27fd5c5/29576632450-1200.jpg"
+  },
+  {
+    "title": "Black Album",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "62496197-9b0e-45c3-b685-98910f2161b1",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 2700020,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2021-04-08T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "9ae41e22-7c05-49cb-890b-dff251dcd656",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 2700020,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "[no label]"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "4474365d-729d-48df-b2da-feea92ce28cc",
+        "title": "Black Album",
+        "status": "Official",
+        "duration": 2700019,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "Yuri Society"
+        ],
+        "format": "Digital Media",
+        "monitored": false
+      }
+    ],
+    "genres": [
+      "Experimental",
+      "Noise",
+      "Harsh Noise",
+      "Harsh Noise Wall",
+      "Ambient Noise Wall"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Black Album",
+      "foreignArtistId": "febce5cf-3153-40a7-8868-73ff29c1f568",
+      "tadbId": 0,
+      "discogsId": 0,
+      "disambiguation": "harsh noise wall",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/8637867",
+          "name": "discogs"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/black-album",
+          "name": "rateyourmusic"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Harsh Noise Wall"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/49b037be1251ab0b9733c4c20f04dc3ce9fdd91553314ac04936b5263d1df097/31037024966-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/9ae41e22-7c05-49cb-890b-dff251dcd656/31037024966-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/9ae41e22-7c05-49cb-890b-dff251dcd656/31037024966-1200.jpg"
+  },
+  {
+    "title": "Black Album II",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "d4c1aace-2a48-406a-8933-e3dd2183ca78",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 1800020,
+    "albumType": "EP",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2021-04-08T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "33bcaa7d-7d70-44da-b491-055fc7452280",
+        "title": "Black Album II",
+        "status": "Official",
+        "duration": 1800020,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "[no label]"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "97796db4-6478-4f4b-b69e-43fc0270ef87",
+        "title": "Black Album II",
+        "status": "Official",
+        "duration": 1800019,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "Small Tits Records"
+        ],
+        "format": "Digital Media",
+        "monitored": false
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "c8490e7f-83bc-4ee2-b844-81d4aee98aa7",
+        "title": "Black Album II",
+        "status": "Official",
+        "duration": 1800019,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "Yuri Society"
+        ],
+        "format": "Digital Media",
+        "monitored": false
+      }
+    ],
+    "genres": [
+      "Experimental",
+      "Noise",
+      "Harsh Noise",
+      "Harsh Noise Wall"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Black Album",
+      "foreignArtistId": "febce5cf-3153-40a7-8868-73ff29c1f568",
+      "tadbId": 0,
+      "discogsId": 0,
+      "disambiguation": "harsh noise wall",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/8637867",
+          "name": "discogs"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/black-album",
+          "name": "rateyourmusic"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Harsh Noise Wall"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/eeac2f5350f9d69b77910afc6d8ab38f648a85413faa96ea67231018145df836/31037048554-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/33bcaa7d-7d70-44da-b491-055fc7452280/31037048554-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/33bcaa7d-7d70-44da-b491-055fc7452280/31037048554-1200.jpg"
+  },
+  {
+    "title": "Black Album III",
+    "disambiguation": "",
+    "artistId": 0,
+    "foreignAlbumId": "72cc9ca0-7714-4cc4-b4d3-ef7a1bc7290e",
+    "monitored": false,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3446700,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2021-06-05T00:00:00Z",
+    "releases": [
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "d319c824-8a90-4bb7-9eb7-83355dba4ab9",
+        "title": "Black Album III",
+        "status": "Official",
+        "duration": 3446700,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "[no label]"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      },
+      {
+        "id": 0,
+        "albumId": 0,
+        "foreignReleaseId": "d2530a13-b1c6-4c9e-919b-4045d69e733b",
+        "title": "Black Album III",
+        "status": "Official",
+        "duration": 3446697,
+        "trackCount": 1,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "[Worldwide]"
+        ],
+        "label": [
+          "Yuri Society"
+        ],
+        "format": "Digital Media",
+        "monitored": false
+      }
+    ],
+    "genres": [
+      "Experimental",
+      "Noise",
+      "Harsh Noise",
+      "Harsh Noise Wall"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Black Album",
+      "foreignArtistId": "febce5cf-3153-40a7-8868-73ff29c1f568",
+      "tadbId": 0,
+      "discogsId": 0,
+      "disambiguation": "harsh noise wall",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/8637867",
+          "name": "discogs"
+        },
+        {
+          "url": "https://rateyourmusic.com/artist/black-album",
+          "name": "rateyourmusic"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "qualityProfileId": 0,
+      "metadataProfileId": 0,
+      "monitored": false,
+      "monitorNewItems": "all",
+      "genres": [
+        "Harsh Noise Wall"
+      ],
+      "tags": [],
+      "added": "0001-01-01T00:14:00Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      }
+    },
+    "images": [
+      {
+        "url": "/MediaCoverProxy/b7f4851aae0535ab43333d480dc0acbcec302ddef8e0d6a6b0b08df9cd08b4b0/31037048989-1200.jpg",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/d319c824-8a90-4bb7-9eb7-83355dba4ab9/31037048989-1200.jpg"
+      }
+    ],
+    "links": [],
+    "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/d319c824-8a90-4bb7-9eb7-83355dba4ab9/31037048989-1200.jpg"
+  }
+]

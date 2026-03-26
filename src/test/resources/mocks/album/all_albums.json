@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Jazz Chill",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "0cc32b1a-0d86-4b85-aff9-28582bebbc5f",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3245000,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2006-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 229,
+        "albumId": 29,
+        "foreignReleaseId": "cfc17f2b-7a2f-4173-a51c-6ff6574ca063",
+        "title": "Jazz Chill",
+        "status": "Official",
+        "duration": 3245000,
+        "trackCount": 14,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Spain"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/29/cover.jpg?lastWrite=638983900872987007",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/cfc17f2b-7a2f-4173-a51c-6ff6574ca063/38043673159-1200.jpg"
+      },
+      {
+        "url": "/MediaCover/Albums/29/disc.jpg",
+        "coverType": "disc",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/cfc17f2b-7a2f-4173-a51c-6ff6574ca063/38043674059-1200.jpg"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.discogs.com/master/211619",
+        "name": "discogs"
+      }
+    ],
+    "statistics": {
+      "trackFileCount": 14,
+      "trackCount": 14,
+      "totalTrackCount": 14,
+      "sizeOnDisk": 383030935,
+      "percentOfTracks": 100
+    },
+    "id": 29
+  },
+  {
+    "title": "Jazz Chill, Vol.3",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "5faae69c-5a6b-44b1-ba3f-df45b46a893a",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 0,
+    "duration": 3196827,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2010-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 230,
+        "albumId": 30,
+        "foreignReleaseId": "8112ebcd-d0ca-4ae9-b2b7-8ad4805f81ed",
+        "title": "Jazz Chill, Vol.3",
+        "status": "Official",
+        "duration": 3196827,
+        "trackCount": 14,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "Digital Media"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "United Kingdom"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "Digital Media",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "Digital Media"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/30/cover.jpg?lastWrite=638983900876005631",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/8112ebcd-d0ca-4ae9-b2b7-8ad4805f81ed/32777084423-1200.jpg"
+      }
+    ],
+    "links": [],
+    "statistics": {
+      "trackFileCount": 14,
+      "trackCount": 14,
+      "totalTrackCount": 14,
+      "sizeOnDisk": 364280484,
+      "percentOfTracks": 100
+    },
+    "id": 30
+  },
+  {
+    "title": "Jazz Chill, Vol.5",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "0a2c7fe7-c11f-4e4c-b93c-41318328db69",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 1,
+    "duration": 3180397,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2016-11-29T00:00:00Z",
+    "releases": [
+      {
+        "id": 8009,
+        "albumId": 784,
+        "foreignReleaseId": "989c1aee-5d5c-4c12-af5e-f9ac922d4d19",
+        "title": "Jazz Chill, Vol.5",
+        "status": "Official",
+        "duration": 3180397,
+        "trackCount": 15,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Spain"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [
+      "Jazz",
+      "Jazz-Funk",
+      "Pop",
+      "Easy Listening"
+    ],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/784/cover.jpg?lastWrite=638983900832101349",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/989c1aee-5d5c-4c12-af5e-f9ac922d4d19/33310588574-1200.jpg"
+      }
+    ],
+    "links": [],
+    "statistics": {
+      "trackFileCount": 0,
+      "trackCount": 15,
+      "totalTrackCount": 15,
+      "sizeOnDisk": 0,
+      "percentOfTracks": 0
+    },
+    "id": 784
+  },
+  {
+    "title": "Jazz Chill Vol.7",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "2a00ea14-9771-40c4-8028-23fc6061f95d",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 1,
+    "duration": 3027758,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2021-10-27T00:00:00Z",
+    "releases": [
+      {
+        "id": 8010,
+        "albumId": 785,
+        "foreignReleaseId": "d5a972e7-175f-4b79-9e77-2ce88b4a7075",
+        "title": "Jazz Chill Vol.7",
+        "status": "Official",
+        "duration": 3027758,
+        "trackCount": 14,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Spain"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/785/cover.jpg?lastWrite=638983900841381912",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/d5a972e7-175f-4b79-9e77-2ce88b4a7075/33310720797-1200.jpg"
+      }
+    ],
+    "links": [],
+    "statistics": {
+      "trackFileCount": 0,
+      "trackCount": 14,
+      "totalTrackCount": 14,
+      "sizeOnDisk": 0,
+      "percentOfTracks": 0
+    },
+    "id": 785
+  },
+  {
+    "title": "Jazz Chill, Vol.4",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "27f05466-8753-44f9-b801-5ed65c9a9de8",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 1,
+    "duration": 3313132,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2012-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 8011,
+        "albumId": 786,
+        "foreignReleaseId": "e8a56eca-c6a0-4a35-ba6b-8995533e899c",
+        "title": "Jazz Chill, Vol.4",
+        "status": "Official",
+        "duration": 3313132,
+        "trackCount": 14,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Spain"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "CD",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "",
+        "mediumFormat": "CD"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/786/cover.jpg?lastWrite=638983900847763207",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/e8a56eca-c6a0-4a35-ba6b-8995533e899c/33310545865-1200.jpg"
+      }
+    ],
+    "links": [],
+    "statistics": {
+      "trackFileCount": 0,
+      "trackCount": 14,
+      "totalTrackCount": 14,
+      "sizeOnDisk": 0,
+      "percentOfTracks": 0
+    },
+    "id": 786
+  },
+  {
+    "title": "Jazz Chill, Vol.2",
+    "disambiguation": "",
+    "overview": "",
+    "artistId": 20,
+    "foreignAlbumId": "94c75bbd-67db-4e89-8d05-5745bc33656f",
+    "monitored": true,
+    "anyReleaseOk": true,
+    "profileId": 1,
+    "duration": 2943582,
+    "albumType": "Album",
+    "secondaryTypes": [],
+    "mediumCount": 1,
+    "ratings": {
+      "votes": 0,
+      "value": 0
+    },
+    "releaseDate": "2007-01-01T00:00:00Z",
+    "releases": [
+      {
+        "id": 8012,
+        "albumId": 787,
+        "foreignReleaseId": "a8f13b5b-c601-4d40-91eb-43e24939f061",
+        "title": "Jazz Chill, Vol.2",
+        "status": "Official",
+        "duration": 2943582,
+        "trackCount": 13,
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "Unknown",
+            "mediumFormat": "Unknown"
+          }
+        ],
+        "mediumCount": 1,
+        "disambiguation": "",
+        "country": [
+          "Spain"
+        ],
+        "label": [
+          "Blanco y Negro Music"
+        ],
+        "format": "Unknown",
+        "monitored": true
+      }
+    ],
+    "genres": [],
+    "media": [
+      {
+        "mediumNumber": 1,
+        "mediumName": "Unknown",
+        "mediumFormat": "Unknown"
+      }
+    ],
+    "artist": {
+      "status": "continuing",
+      "ended": false,
+      "artistName": "Berk & The Virtual Band",
+      "foreignArtistId": "4c12de63-9b4f-47fc-91c7-854eb0e97c8d",
+      "tadbId": 0,
+      "discogsId": 0,
+      "artistType": "Group",
+      "disambiguation": "",
+      "links": [
+        {
+          "url": "https://www.discogs.com/artist/1671519",
+          "name": "discogs"
+        },
+        {
+          "url": "https://myspace.com/berkandthevirtualband",
+          "name": "myspace"
+        },
+        {
+          "url": "https://secondhandsongs.com/artist/57113",
+          "name": "secondhandsongs"
+        }
+      ],
+      "nextAlbum": null,
+      "lastAlbum": null,
+      "images": [],
+      "path": "/data/music/Berk & The Virtual Band",
+      "qualityProfileId": 2,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "berkvirtualband",
+      "sortName": "berk virtual band",
+      "tags": [],
+      "added": "2025-11-10T16:37:12Z",
+      "ratings": {
+        "votes": 0,
+        "value": 0
+      },
+      "id": 20
+    },
+    "images": [
+      {
+        "url": "/MediaCover/Albums/787/cover.jpg?lastWrite=638983900861227404",
+        "coverType": "cover",
+        "extension": ".jpg",
+        "remoteUrl": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/a8f13b5b-c601-4d40-91eb-43e24939f061/40832050723-1200.jpg"
+      }
+    ],
+    "links": [],
+    "statistics": {
+      "trackFileCount": 0,
+      "trackCount": 13,
+      "totalTrackCount": 13,
+      "sizeOnDisk": 0,
+      "percentOfTracks": 0
+    },
+    "id": 787
+  }
+]

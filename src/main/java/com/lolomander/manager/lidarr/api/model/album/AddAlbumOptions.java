@@ -7,21 +7,12 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
-/**
- * DTO utilizado para la actualización masiva del estado de monitorización
- * de álbumes en Lidarr.
- */
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class AlbumsMonitoredResource {
-
-    private List<Integer> albumIds;
-    private Boolean monitored;
-
+public class AddAlbumOptions {
+    private Boolean searchForNewAlbum;
 }

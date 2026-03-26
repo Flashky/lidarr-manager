@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
+import org.springframework.web.client.RestClient;
 import org.springframework.web.reactive.function.client.ExchangeStrategies;
 import org.springframework.web.reactive.function.client.WebClient;
 
@@ -40,6 +41,18 @@ public class LidarrConfig {
                 .defaultHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
                 .defaultHeader(HttpHeaders.ACCEPT, MediaType.APPLICATION_JSON_VALUE)
                 .exchangeStrategies(strategies)
+                .build();
+
+
+    }
+
+
+    @Bean
+    public RestClient lidarrRestClient() {
+
+        return RestClient.builder()
+                .baseUrl(lidarrUrl)
+                .defaultHeader("X-Api-Key", apiKey)
                 .build();
     }
 }

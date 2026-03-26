@@ -14,15 +14,13 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.util.StreamUtils;
-import org.springframework.web.reactive.function.client.WebClient;
-import reactor.core.publisher.Flux;
-import reactor.core.publisher.Mono;
-import reactor.test.StepVerifier;
+import org.springframework.web.client.RestClient;
 import tools.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
+import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -57,8 +55,8 @@ class LidarrArtistClientTest {
     @BeforeEach
     void initialize() {
         String baseUrl = String.format("http://localhost:%s", mockWebServer.getPort());
-        WebClient webClient = WebClient.builder().baseUrl(baseUrl).build();
-        lidarrArtistClient = new LidarrArtistClient(webClient);
+        RestClient restClient = RestClient.builder().baseUrl(baseUrl).build();
+        lidarrArtistClient = new LidarrArtistClient(restClient);
     }
 
     @Test
@@ -70,22 +68,19 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Flux<ArtistResource> result = lidarrArtistClient.getAllArtists();
+        List<ArtistResource> result = lidarrArtistClient.getAllArtists();
 
         // Assert
-        StepVerifier.create(result)
-                .assertNext(artist -> {
-                    assertNotNull(artist);
-                    assertEquals("(həd) p.e.", artist.getArtistName());
-                    assertEquals(1, artist.getId());
-                    assertEquals(2, artist.getQualityProfileId());
-                    assertEquals(1, artist.getMetadataProfileId());
-                    assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
-                    assertEquals("/data/music/", artist.getRootFolderPath());
-                    assertTrue(artist.getMonitored());
-                })
-                .expectNextCount(368)
-                .verifyComplete();
+        assertEquals(369, result.size());
+
+        ArtistResource artist = result.getFirst();
+        assertEquals("(həd) p.e.", artist.getArtistName());
+        assertEquals(1, artist.getId());
+        assertEquals(2, artist.getQualityProfileId());
+        assertEquals(1, artist.getMetadataProfileId());
+        assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
+        assertEquals("/data/music/", artist.getRootFolderPath());
+        assertTrue(artist.getMonitored());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -101,12 +96,10 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Flux<ArtistResource> result = lidarrArtistClient.getAllArtists();
+        List<ArtistResource> result = lidarrArtistClient.getAllArtists();
 
         // Assert
-        StepVerifier.create(result)
-                .expectNextCount(0)
-                .verifyComplete();
+        assertTrue(result.isEmpty());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -124,21 +117,19 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Mono<ArtistResource> result = lidarrArtistClient.getArtistById(artistId);
+        Optional<ArtistResource> result = lidarrArtistClient.getArtistById(artistId);
 
         // Assert
-        StepVerifier.create(result)
-                .assertNext(artist -> {
-                    assertNotNull(artist);
-                    assertEquals("(həd) p.e.", artist.getArtistName());
-                    assertEquals(1, artist.getId());
-                    assertEquals(2, artist.getQualityProfileId());
-                    assertEquals(1, artist.getMetadataProfileId());
-                    assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
-                    assertEquals("/data/music/", artist.getRootFolderPath());
-                    assertTrue(artist.getMonitored());
-                })
-                .verifyComplete();
+        assertTrue(result.isPresent());
+
+        ArtistResource artist = result.get();
+        assertEquals("(həd) p.e.", artist.getArtistName());
+        assertEquals(1, artist.getId());
+        assertEquals(2, artist.getQualityProfileId());
+        assertEquals(1, artist.getMetadataProfileId());
+        assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
+        assertEquals("/data/music/", artist.getRootFolderPath());
+        assertTrue(artist.getMonitored());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -152,12 +143,10 @@ class LidarrArtistClientTest {
                 .setResponseCode(404));
 
         // Act
-        Mono<ArtistResource> result = lidarrArtistClient.getArtistById(123456);
+        Optional<ArtistResource> result = lidarrArtistClient.getArtistById(123456);
 
         // Assert
-        StepVerifier.create(result)
-                .expectNextCount(0) // No esperamos elementos
-                .verifyComplete();
+        assertTrue(result.isEmpty());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -173,21 +162,20 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Mono<ArtistResource> result = lidarrArtistClient.getArtistByExternalId(externalId);
+        Optional<ArtistResource> result = lidarrArtistClient.getArtistByExternalId(externalId);
 
         // Assert
-        StepVerifier.create(result)
-                .assertNext(artist -> {
-                    assertNotNull(artist);
-                    assertEquals("(həd) p.e.", artist.getArtistName());
-                    assertEquals(1, artist.getId());
-                    assertEquals(2, artist.getQualityProfileId());
-                    assertEquals(1, artist.getMetadataProfileId());
-                    assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
-                    assertEquals("/data/music/", artist.getRootFolderPath());
-                    assertTrue(artist.getMonitored());
-                })
-                .verifyComplete();
+        assertTrue(result.isPresent());
+        ArtistResource artist = result.get();
+
+        assertEquals("(həd) p.e.", artist.getArtistName());
+        assertEquals(1, artist.getId());
+        assertEquals(2, artist.getQualityProfileId());
+        assertEquals(1, artist.getMetadataProfileId());
+        assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
+        assertEquals("/data/music/", artist.getRootFolderPath());
+        assertTrue(artist.getMonitored());
+
 
         // Verificamos que la URL se construyó correctamente con el query param
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
@@ -204,12 +192,10 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Mono<ArtistResource> result = lidarrArtistClient.getArtistByExternalId("non-existent-uuid");
+        Optional<ArtistResource> result = lidarrArtistClient.getArtistByExternalId("non-existent-uuid");
 
         // Assert
-        StepVerifier.create(result)
-                .expectNextCount(0)
-                .verifyComplete();
+        assertTrue(result.isEmpty());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -217,7 +203,7 @@ class LidarrArtistClientTest {
     }
 
     @Test
-    void searchArtistShouldReturnFluxOfArtists() throws IOException, InterruptedException {
+    void searchArtistShouldReturnListOfArtists() throws IOException, InterruptedException {
 
         // Arrange
         String term = "Hed PE";
@@ -226,21 +212,19 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Flux<ArtistResource> result = lidarrArtistClient.searchArtist(term);
+        List<ArtistResource> result = lidarrArtistClient.searchArtist(term);
 
         // Assert
-        StepVerifier.create(result)
-                .assertNext(artist -> {
-                    assertNotNull(artist);
-                    assertEquals("(həd) p.e.", artist.getArtistName());
-                    assertEquals(1, artist.getId());
-                    assertEquals(2, artist.getQualityProfileId());
-                    assertEquals(1, artist.getMetadataProfileId());
-                    assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
-                    assertTrue(artist.getMonitored());
-                })
-                .expectNextCount(19)
-                .verifyComplete();
+        assertEquals(20, result.size());
+
+        ArtistResource artist = result.getFirst();
+        assertNotNull(artist);
+        assertEquals("(həd) p.e.", artist.getArtistName());
+        assertEquals(1, artist.getId());
+        assertEquals(2, artist.getQualityProfileId());
+        assertEquals(1, artist.getMetadataProfileId());
+        assertEquals("19516266-e5d9-4774-b749-812bb76a6559", artist.getForeignArtistId());
+        assertTrue(artist.getMonitored());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -248,19 +232,17 @@ class LidarrArtistClientTest {
     }
 
     @Test
-    void searchArtistShouldReturnEmptyFluxOnError() throws IOException, InterruptedException{
+    void searchArtistShouldReturnEmptyListOnNonExistingTerm() throws IOException, InterruptedException{
         // Arrange
         mockWebServer.enqueue(new MockResponse()
                 .setBody(loadJson("all_artists_empty.json"))
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Flux<ArtistResource> result = lidarrArtistClient.searchArtist("non-existent-term");
+        List<ArtistResource> result = lidarrArtistClient.searchArtist("non-existent-term");
 
         // Assert
-        StepVerifier.create(result)
-                .expectNextCount(0)
-                .verifyComplete();
+        assertTrue(result.isEmpty());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("GET", recordedRequest.getMethod());
@@ -293,28 +275,27 @@ class LidarrArtistClientTest {
                 .addHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE));
 
         // Act
-        Mono<ArtistResource> result = lidarrArtistClient.createArtist(newArtist);
+        Optional<ArtistResource> result = lidarrArtistClient.createArtist(newArtist);
 
-        // Assert
-        StepVerifier.create(result)
-                .assertNext(artist -> {
-                    assertNotNull(artist.getId());
-                    assertEquals("150fde6c-d8d6-4e59-8ff7-52cfe85497d9", artist.getForeignArtistId());
-                    assertTrue(artist.getMonitored());
-                    assertEquals("Jeff Goldblum", artist.getArtistName());
-                    assertEquals(2, artist.getQualityProfileId());
-                    assertEquals(1, artist.getMetadataProfileId());
-                    assertEquals("/data/music/", artist.getRootFolderPath());
+        // Assert - Verify result
+        assertTrue(result.isPresent());
 
-                    AddArtistOptions responseAddOptions = artist.getAddOptions();
-                    assertNotNull(responseAddOptions);
-                    assertEquals("existing", responseAddOptions.getMonitor().getValue());
-                    assertFalse(responseAddOptions.getAlbumsToMonitor().isEmpty());
-                    assertEquals( "dff52d87-cb79-4b5d-acf3-85baab481ea0", responseAddOptions.getAlbumsToMonitor().getFirst());
-                    assertTrue(responseAddOptions.getMonitored());
-                    assertTrue(responseAddOptions.getSearchForMissingAlbums());
-                })
-                .verifyComplete();
+        ArtistResource artist = result.get();
+        assertNotNull(artist.getId());
+        assertEquals("150fde6c-d8d6-4e59-8ff7-52cfe85497d9", artist.getForeignArtistId());
+        assertTrue(artist.getMonitored());
+        assertEquals("Jeff Goldblum", artist.getArtistName());
+        assertEquals(2, artist.getQualityProfileId());
+        assertEquals(1, artist.getMetadataProfileId());
+        assertEquals("/data/music/", artist.getRootFolderPath());
+
+        AddArtistOptions responseAddOptions = artist.getAddOptions();
+        assertNotNull(responseAddOptions);
+        assertEquals("existing", responseAddOptions.getMonitor().getValue());
+        assertFalse(responseAddOptions.getAlbumsToMonitor().isEmpty());
+        assertEquals( "dff52d87-cb79-4b5d-acf3-85baab481ea0", responseAddOptions.getAlbumsToMonitor().getFirst());
+        assertTrue(responseAddOptions.getMonitored());
+        assertTrue(responseAddOptions.getSearchForMissingAlbums());
 
         RecordedRequest recordedRequest = mockWebServer.takeRequest();
         assertEquals("POST", recordedRequest.getMethod());
@@ -333,12 +314,12 @@ class LidarrArtistClientTest {
         assertEquals(1, sentArtist.getMetadataProfileId());
         assertEquals("/data/music/", sentArtist.getRootFolderPath());
 
-        AddArtistOptions responseAddOptions = sentArtist.getAddOptions();
-        assertNotNull(responseAddOptions);
-        assertEquals("existing", responseAddOptions.getMonitor().getValue());
-        assertFalse(responseAddOptions.getAlbumsToMonitor().isEmpty());
-        assertEquals( "dff52d87-cb79-4b5d-acf3-85baab481ea0", responseAddOptions.getAlbumsToMonitor().getFirst());
-        assertTrue(responseAddOptions.getMonitored());
-        assertTrue(responseAddOptions.getSearchForMissingAlbums());
+        AddArtistOptions sentResponseAddOptions = sentArtist.getAddOptions();
+        assertNotNull(sentResponseAddOptions);
+        assertEquals("existing", sentResponseAddOptions.getMonitor().getValue());
+        assertFalse(sentResponseAddOptions.getAlbumsToMonitor().isEmpty());
+        assertEquals( "dff52d87-cb79-4b5d-acf3-85baab481ea0", sentResponseAddOptions.getAlbumsToMonitor().getFirst());
+        assertTrue(sentResponseAddOptions.getMonitored());
+        assertTrue(sentResponseAddOptions.getSearchForMissingAlbums());
     }
 }
