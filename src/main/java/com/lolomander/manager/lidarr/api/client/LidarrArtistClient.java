@@ -11,8 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Cliente de infraestructura para interactuar con los endpoints de Artistas en Lidarr.
- * Implementa reintentos automáticos y manejo de errores reactivos.
+ * Cliente para interactuar con los endpoints de artistas de Lidarr.
  */
 @Slf4j
 @Component
@@ -20,7 +19,7 @@ public class LidarrArtistClient {
 
     private static final String ENDPOINT_ARTIST = "/artist";
     private static final String ENDPOINT_ARTIST_ID = "/artist/{id}";
-    private static final String ENDPOINT_ARTIST_LOOKUP = "/artist/lookup";
+    private static final String ENDPOINT_ARTIST_SEARCH = "/artist/lookup";
 
     private final RestClient restClient;
 
@@ -79,7 +78,7 @@ public class LidarrArtistClient {
     public List<ArtistResource> searchArtist(String term) {
         return restClient.get()
                 .uri(uriBuilder -> uriBuilder
-                        .path(ENDPOINT_ARTIST_LOOKUP)
+                        .path(ENDPOINT_ARTIST_SEARCH)
                         .queryParam("term", term)
                         .build())
                 .retrieve()

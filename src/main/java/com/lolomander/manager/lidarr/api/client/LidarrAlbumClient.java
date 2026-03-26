@@ -4,9 +4,7 @@ import com.lolomander.manager.lidarr.api.model.album.AlbumResource;
 import com.lolomander.manager.lidarr.api.model.album.AlbumsMonitoredResource;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.ParameterizedTypeReference;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
-import org.springframework.util.CollectionUtils;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestClient;
 
@@ -15,7 +13,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Cliente reactivo para interactuar con los endpoints de Álbumes de Lidarr.
+ * Cliente para interactuar con los endpoints de álbumes de Lidarr.
  */
 @Slf4j
 @Component

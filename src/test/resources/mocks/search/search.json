@@ -1,0 +1,6000 @@
+[
+  [
+    {
+      "foreignId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "artist": {
+        "status": "continuing",
+        "ended": false,
+        "artistName": "Metallica",
+        "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+        "tadbId": 0,
+        "discogsId": 0,
+        "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+        "artistType": "Group",
+        "disambiguation": "",
+        "links": [
+          {
+            "url": "https://www.metallica.com/",
+            "name": "metallica"
+          },
+          {
+            "url": "https://www.discogs.com/artist/18839",
+            "name": "discogs"
+          },
+          {
+            "url": "https://myspace.com/metallica",
+            "name": "myspace"
+          },
+          {
+            "url": "https://www.metal-archives.com/bands/Metallica/125",
+            "name": "metal-archives"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0582376/",
+            "name": "imdb"
+          },
+          {
+            "url": "http://www.purevolume.com/metallica",
+            "name": "purevolume"
+          },
+          {
+            "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "bbc"
+          },
+          {
+            "url": "https://twitter.com/Metallica",
+            "name": "twitter"
+          },
+          {
+            "url": "https://www.allmusic.com/artist/mn0000446509",
+            "name": "allmusic"
+          },
+          {
+            "url": "https://www.facebook.com/Metallica",
+            "name": "facebook"
+          },
+          {
+            "url": "https://www.last.fm/music/Metallica",
+            "name": "last"
+          },
+          {
+            "url": "https://secondhandsongs.com/artist/211",
+            "name": "secondhandsongs"
+          },
+          {
+            "url": "http://viaf.org/viaf/270856862",
+            "name": "viaf"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q15920",
+            "name": "wikidata"
+          },
+          {
+            "url": "https://rateyourmusic.com/artist/metallica",
+            "name": "rateyourmusic"
+          },
+          {
+            "url": "https://plus.google.com/116287157852669694516",
+            "name": "google"
+          },
+          {
+            "url": "https://soundcloud.com/loureedmetallica",
+            "name": "soundcloud"
+          },
+          {
+            "url": "https://soundcloud.com/officialmetallica",
+            "name": "soundcloud"
+          },
+          {
+            "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+            "name": "spotify"
+          },
+          {
+            "url": "http://soundtrackcollector.com/composer/6284/",
+            "name": "soundtrackcollector"
+          },
+          {
+            "url": "http://www.pandora.com/metallica",
+            "name": "pandora"
+          },
+          {
+            "url": "https://genius.com/artists/Metallica",
+            "name": "genius"
+          },
+          {
+            "url": "https://imvdb.com/n/metallica",
+            "name": "imvdb"
+          },
+          {
+            "url": "https://www.45cat.com/artist/metallica",
+            "name": "45cat"
+          },
+          {
+            "url": "https://www.whosampled.com/Metallica/",
+            "name": "whosampled"
+          },
+          {
+            "url": "https://itunes.apple.com/us/artist/id3996865",
+            "name": "apple"
+          },
+          {
+            "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+            "name": "setlist"
+          },
+          {
+            "url": "https://www.bandsintown.com/a/128",
+            "name": "bandsintown"
+          },
+          {
+            "url": "https://us.7digital.com/artist/metallica",
+            "name": "7digital"
+          },
+          {
+            "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+            "name": "google"
+          },
+          {
+            "url": "https://www.deezer.com/artist/119",
+            "name": "deezer"
+          },
+          {
+            "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+            "name": "bnf"
+          },
+          {
+            "url": "https://d-nb.info/gnd/2126186-6",
+            "name": "d-nb"
+          },
+          {
+            "url": "https://www.songkick.com/artists/331163",
+            "name": "songkick"
+          },
+          {
+            "url": "https://www.livemetallica.com/",
+            "name": "livemetallica"
+          },
+          {
+            "url": "https://www.livemetallica.com/",
+            "name": "livemetallica"
+          },
+          {
+            "url": "https://openlibrary.org/authors/OL2853227A/",
+            "name": "openlibrary"
+          },
+          {
+            "url": "http://id.loc.gov/authorities/names/n91114928",
+            "name": "loc"
+          },
+          {
+            "url": "https://www.musik-sammler.de/artist/metallica/",
+            "name": "musik-sammler"
+          },
+          {
+            "url": "https://www.instagram.com/metallica/",
+            "name": "instagram"
+          },
+          {
+            "url": "https://music.amazon.com/artists/B000QJPIHU",
+            "name": "amazon"
+          },
+          {
+            "url": "https://www.livefans.jp/artists/2583",
+            "name": "livefans"
+          },
+          {
+            "url": "https://www.musixmatch.com/artist/Metallica",
+            "name": "musixmatch"
+          },
+          {
+            "url": "https://us.napster.com/artist/metallica",
+            "name": "napster"
+          },
+          {
+            "url": "https://tidal.com/artist/8405",
+            "name": "tidal"
+          },
+          {
+            "url": "https://www.cdjapan.co.jp/person/700289058",
+            "name": "co"
+          },
+          {
+            "url": "https://www.hdtracks.com/#/artist/Metallica",
+            "name": "hdtracks"
+          },
+          {
+            "url": "https://music.apple.com/us/artist/3996865",
+            "name": "apple"
+          },
+          {
+            "url": "https://music.apple.com/us/artist/3996865",
+            "name": "apple"
+          },
+          {
+            "url": "https://music.migu.cn/v3/music/artist/33037",
+            "name": "migu"
+          },
+          {
+            "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+            "name": "youtube"
+          },
+          {
+            "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+            "name": "yesasia"
+          },
+          {
+            "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+            "name": "muziekweb"
+          },
+          {
+            "url": "https://mora.jp/artist/79/all",
+            "name": "mora"
+          },
+          {
+            "url": "https://www.junodownload.com/artists/Metallica/releases/",
+            "name": "junodownload"
+          },
+          {
+            "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+            "name": "youtube"
+          },
+          {
+            "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+            "name": "youtube"
+          },
+          {
+            "url": "https://www.tiktok.com/@metallica",
+            "name": "tiktok"
+          },
+          {
+            "url": "https://www.progarchives.com/artist.asp?id=4022",
+            "name": "progarchives"
+          },
+          {
+            "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+            "name": "qobuz"
+          },
+          {
+            "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+            "name": "qobuz"
+          },
+          {
+            "url": "https://www.threads.com/@metallica",
+            "name": "threads"
+          },
+          {
+            "url": "https://www.ticketmaster.com/artist/735647",
+            "name": "ticketmaster"
+          },
+          {
+            "url": "https://muzikum.eu/en/metallica/lyrics",
+            "name": "muzikum"
+          },
+          {
+            "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+            "name": "musicmoz"
+          },
+          {
+            "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+            "name": "spirit-of-metal"
+          },
+          {
+            "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+            "name": "oclc"
+          },
+          {
+            "url": "https://www.boomplay.com/artists/1912827",
+            "name": "boomplay"
+          },
+          {
+            "url": "https://bsky.app/profile/metallica.com",
+            "name": "bsky"
+          },
+          {
+            "url": "https://ototoy.jp/_/default/a/261890",
+            "name": "ototoy"
+          },
+          {
+            "url": "https://ototoy.jp/_/default/a/291211",
+            "name": "ototoy"
+          },
+          {
+            "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+            "name": "melon"
+          },
+          {
+            "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+            "name": "melon"
+          },
+          {
+            "url": "https://www.metalmusicarchives.com/artist/metallica",
+            "name": "metalmusicarchives"
+          }
+        ],
+        "nextAlbum": null,
+        "lastAlbum": null,
+        "images": [
+          {
+            "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+            "coverType": "fanart",
+            "extension": ".jpg"
+          },
+          {
+            "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+            "coverType": "banner",
+            "extension": ".jpg"
+          },
+          {
+            "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+            "coverType": "clearlogo",
+            "extension": ".png"
+          },
+          {
+            "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+            "coverType": "poster",
+            "extension": ".jpg"
+          }
+        ],
+        "remotePoster": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+        "path": "/data/music/Metallica",
+        "qualityProfileId": 2,
+        "metadataProfileId": 1,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "folder": "Metallica",
+        "genres": [
+          "Thrash Metal",
+          "Heavy Metal",
+          "Metal",
+          "Hard Rock"
+        ],
+        "cleanName": "metallica",
+        "sortName": "metallica",
+        "tags": [],
+        "added": "2025-11-10T16:41:01Z",
+        "ratings": {
+          "votes": 73,
+          "value": 8.3
+        },
+        "id": 172
+      },
+      "id": 1
+    },
+    {
+      "foreignId": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+      "album": {
+        "title": "Metallica",
+        "disambiguation": "“The Black Album”",
+        "overview": "",
+        "artistId": 172,
+        "foreignAlbumId": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+        "monitored": true,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 3758328,
+        "albumType": "Album",
+        "secondaryTypes": [],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 65,
+          "value": 8.2
+        },
+        "releaseDate": "1991-08-12T00:00:00Z",
+        "releases": [
+          {
+            "id": 3371,
+            "albumId": 335,
+            "foreignReleaseId": "1f641922-f9a7-4a6b-8351-74c27812f94f",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 56313133,
+            "trackCount": 193,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Metallica (remastered)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Live at Wembley Stadium, London, England — April 20th, 1992",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Live at Tushino Airfield, Moscow, Russia — September 28th, 1991",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "Riffs & Demos (disc 1)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 5,
+                "mediumName": "Riffs & Demos (disc 2)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 6,
+                "mediumName": "Pre‐Production Rehearsals + Radio Edits",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 7,
+                "mediumName": "Rough & Alternate Mixes (disc 1)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 8,
+                "mediumName": "Rough & Alternate Mixes (disc 2)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 9,
+                "mediumName": "Some Shit From Day on the Green, Oakland, CA — October 12th, 1991",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 10,
+                "mediumName": "Live at Arco Arena, Sacramento, CA — January 11th, 1992 + Covers & B‐Sides",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 11,
+                "mediumName": "Live at Maimarktgelände, Mannheim, Germany — May 22nd, 1993",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 11,
+            "disambiguation": "remastered deluxe box set",
+            "country": [],
+            "label": [
+              "Blackened",
+              "Universal Music"
+            ],
+            "format": "11xDigital Media",
+            "monitored": false
+          },
+          {
+            "id": 3372,
+            "albumId": 335,
+            "foreignReleaseId": "4bc28473-5211-387c-8898-74631bc9e040",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Cassette"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "Cassette",
+            "monitored": false
+          },
+          {
+            "id": 3373,
+            "albumId": 335,
+            "foreignReleaseId": "05678d96-23f6-4dae-b994-53c3ff4dede0",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "South Africa"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3374,
+            "albumId": 335,
+            "foreignReleaseId": "af4f69e8-1643-3b5a-94ba-a0269f8e3c77",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 4,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Warner Bros. Records"
+            ],
+            "format": "4x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3375,
+            "albumId": 335,
+            "foreignReleaseId": "3750d9e2-59f5-471d-8916-463433069bd1",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3946223,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Sony Records"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3376,
+            "albumId": 335,
+            "foreignReleaseId": "56bb94dc-9e63-4e79-a41c-db0d40f12475",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United Kingdom"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3377,
+            "albumId": 335,
+            "foreignReleaseId": "1398514b-dd55-30bf-817f-b637fc612350",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3758532,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "2x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3378,
+            "albumId": 335,
+            "foreignReleaseId": "68d2419f-e55d-42ff-8a7a-a8ed079df0c9",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3945556,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "SHM-CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "SHM-CD",
+            "monitored": false
+          },
+          {
+            "id": 3379,
+            "albumId": 335,
+            "foreignReleaseId": "4005d28d-7c24-4eec-aa7f-695fef776262",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Canada"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3380,
+            "albumId": 335,
+            "foreignReleaseId": "fd93fc3f-128c-40d6-979b-60bcca8db05c",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3736000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra",
+              "Elektra"
+            ],
+            "format": "2x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3381,
+            "albumId": 335,
+            "foreignReleaseId": "264b958d-e9fd-4cde-9759-e9d40df12a94",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "Made in Germany",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3382,
+            "albumId": 335,
+            "foreignReleaseId": "4ffe8f1b-3fc4-4b6c-a750-00f1b50429e1",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3945556,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Universal International",
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3383,
+            "albumId": 335,
+            "foreignReleaseId": "509c9682-9d95-40b3-afd2-ad1f24335147",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "Sony DADC",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Universal",
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3384,
+            "albumId": 335,
+            "foreignReleaseId": "64b1eb34-0981-49d8-93fd-f93a6c77ea29",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "DVD-Audio"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "DVD-Audio",
+            "monitored": false
+          },
+          {
+            "id": 3385,
+            "albumId": 335,
+            "foreignReleaseId": "69a8ca83-a182-3375-a702-a30e216748c9",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757331,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3386,
+            "albumId": 335,
+            "foreignReleaseId": "d955052e-d370-434b-8d52-fc96f2c60541",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3758532,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Universal Music Group International"
+            ],
+            "format": "2x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3387,
+            "albumId": 335,
+            "foreignReleaseId": "a1f19b41-d640-4771-bcfd-c7f803761351",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Argentina"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3388,
+            "albumId": 335,
+            "foreignReleaseId": "2378c442-260e-4c03-ba0c-f75eb2fbc1a5",
+            "title": "Metallica",
+            "status": "Bootleg",
+            "duration": 0,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Cassette"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Poland"
+            ],
+            "label": [
+              "Mad Vox"
+            ],
+            "format": "Cassette",
+            "monitored": false
+          },
+          {
+            "id": 3389,
+            "albumId": 335,
+            "foreignReleaseId": "db448a83-cc4b-45c7-abdd-8524ed9969e5",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3756046,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "remastered",
+            "country": [
+              "Canada",
+              "Puerto Rico",
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3390,
+            "albumId": 335,
+            "foreignReleaseId": "ab554be9-18aa-416f-8e9c-fded080763ec",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759063,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3391,
+            "albumId": 335,
+            "foreignReleaseId": "c451d47d-08c8-4aea-874c-513e55f8348b",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Mexico"
+            ],
+            "label": [
+              "Vertigo",
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3392,
+            "albumId": 335,
+            "foreignReleaseId": "67fc2b8e-9a31-3905-b424-45f97c7a795c",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 4,
+            "disambiguation": "",
+            "country": [
+              "France",
+              "Germany",
+              "Europe"
+            ],
+            "label": [
+              "Universal Music Group International",
+              "Universal Music Group International",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo",
+              "Vertigo"
+            ],
+            "format": "4x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3393,
+            "albumId": 335,
+            "foreignReleaseId": "e33609a4-fcda-4ebe-b845-b6503a6c0405",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3758328,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": true
+          },
+          {
+            "id": 3394,
+            "albumId": 335,
+            "foreignReleaseId": "a5386326-dbf0-4010-93d7-7c6b11961023",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757662,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "made in UK",
+            "country": [
+              "United Kingdom"
+            ],
+            "label": [
+              "Vertigo",
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3395,
+            "albumId": 335,
+            "foreignReleaseId": "2529f558-970b-33d2-a42c-41ab15a970c6",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757329,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Canada"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3396,
+            "albumId": 335,
+            "foreignReleaseId": "ee1fdc9b-a3a2-4140-aa12-a07073f1621f",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757331,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3397,
+            "albumId": 335,
+            "foreignReleaseId": "f6d93f15-bec5-4c6f-acf1-3fbbb93dbb6a",
+            "title": "Metallica",
+            "status": "Promotion",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Romania"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3398,
+            "albumId": 335,
+            "foreignReleaseId": "91537824-13ba-4d1f-95b7-7007f9c9d861",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "South Korea"
+            ],
+            "label": [
+              "Universal Music Group",
+              "Universal Music Group",
+              "Vertigo",
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3399,
+            "albumId": 335,
+            "foreignReleaseId": "6e729716-c0eb-3f50-a740-96ac173be50d",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3948329,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "SHM-CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "SHM-CD",
+            "monitored": false
+          },
+          {
+            "id": 3400,
+            "albumId": 335,
+            "foreignReleaseId": "08c657b8-f5d0-4c9c-803d-9fe676dffcff",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3945556,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "SHM-CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "SHM-CD",
+            "monitored": false
+          },
+          {
+            "id": 3401,
+            "albumId": 335,
+            "foreignReleaseId": "4c0d2e3a-0049-3d6a-ad84-db77165412db",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3946223,
+            "trackCount": 13,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Sony Records International"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3402,
+            "albumId": 335,
+            "foreignReleaseId": "2114e243-5dd8-46a5-8695-e2178106dc24",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759155,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "1993 Australian tour gold signature edition",
+            "country": [
+              "Australia"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3403,
+            "albumId": 335,
+            "foreignReleaseId": "ff884544-7a74-4050-90f6-43292a8b02e9",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 70855077,
+            "trackCount": 217,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Metallica (remastered on 180 gram vinyl)",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Sad but True",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Live at Wembley Stadium, London, England – April 20th, 1992",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "Live at Tushino Airfield, Moscow, Russia – September 28th, 1991",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 5,
+                "mediumName": "Metallica (remastered)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 6,
+                "mediumName": "Interviews: The David Fricke Tapes",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 7,
+                "mediumName": "Interviews: The Steffan Chirazi Tapes",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 8,
+                "mediumName": "Riffs & Demos (disc 1)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 9,
+                "mediumName": "Riffs & Demos (disc 2)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 10,
+                "mediumName": "Pre‐Production Rehearsals + Radio Edits",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 11,
+                "mediumName": "Rough & Alternate Mixes (disc 1)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 12,
+                "mediumName": "Rough & Alternate Mixes (disc 2)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 13,
+                "mediumName": "Some Shit From Day on the Green, Oakland, CA – October 12th, 1991",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 14,
+                "mediumName": "Live at Arco Arena, Sacramento, CA – January 11th, 1992 (disc 1)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 15,
+                "mediumName": "Live at Arco Arena, Sacramento, CA – January 11th, 1992 (disc 2)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 16,
+                "mediumName": "Live at Arco Arena, Sacramento, CA – January 11th, 1992 (disc 3) + Covers & B‐Sides",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 17,
+                "mediumName": "Live at Maimarktgelände, Mannheim, Germany – May 22nd, 1993 (disc 1)",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 18,
+                "mediumName": "Live at Maimarktgelände, Mannheim, Germany – May 22nd, 1993 (disc 2)",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 18,
+            "disambiguation": "deluxe edition",
+            "country": [
+              "United States",
+              "Europe"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "4x12\" Vinyl, 14xCD",
+            "monitored": false
+          },
+          {
+            "id": 3404,
+            "albumId": 335,
+            "foreignReleaseId": "ed6d1e90-79db-4ac6-a865-d409a3589140",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759063,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3405,
+            "albumId": 335,
+            "foreignReleaseId": "94077c2e-a5ca-437f-97ce-af21455fbeaa",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757331,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "no printing circling on outside edge of medium rim",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra",
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3406,
+            "albumId": 335,
+            "foreignReleaseId": "feed811b-3ef5-4a49-9341-2e5606c38c45",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3736000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "2x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3407,
+            "albumId": 335,
+            "foreignReleaseId": "b9548f89-8fbf-4072-bb20-80a63a71550c",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 12136027,
+            "trackCount": 39,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Remastered",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Riffs, Demos, Rough Mixes, & Easy Listening Music",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Wherever We May Roam",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 3,
+            "disambiguation": "expanded edition",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "3xCD",
+            "monitored": false
+          },
+          {
+            "id": 3408,
+            "albumId": 335,
+            "foreignReleaseId": "bb0f7bfe-b3d5-4f38-bcf2-f36aa5846db1",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3750300,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "remastered 2021",
+            "country": [],
+            "label": [
+              "Blackened"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3409,
+            "albumId": 335,
+            "foreignReleaseId": "d87a6b90-7a9e-4ca1-a170-194bf443e2e9",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Australia"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 3410,
+            "albumId": 335,
+            "foreignReleaseId": "3fa8057f-9637-49c4-9088-c8d4f6c2388c",
+            "title": "Metallica",
+            "status": "Withdrawn",
+            "duration": 3759691,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Warner Bros. Records"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3411,
+            "albumId": 335,
+            "foreignReleaseId": "50d7aeb0-02fa-4fd9-ae3f-2868d24b9e50",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3736000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "12\" Vinyl"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "United Kingdom",
+              "Europe"
+            ],
+            "label": [
+              "Simply Vinyl",
+              "Vertigo"
+            ],
+            "format": "2x12\" Vinyl",
+            "monitored": false
+          },
+          {
+            "id": 3412,
+            "albumId": 335,
+            "foreignReleaseId": "f9970d6f-5213-4497-ae68-e363fbfcba36",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 56312201,
+            "trackCount": 193,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 5,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 6,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 7,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 8,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 9,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 10,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 11,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 11,
+            "disambiguation": "remastered deluxe box set",
+            "country": [],
+            "label": [
+              "EMI"
+            ],
+            "format": "11xDigital Media",
+            "monitored": false
+          },
+          {
+            "id": 3413,
+            "albumId": 335,
+            "foreignReleaseId": "e1b9955c-2295-45ed-a7d0-ddbcea02e25b",
+            "title": "Metallica",
+            "status": "Withdrawn",
+            "duration": 3751448,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [],
+            "label": [
+              "Blackened",
+              "Universal Music"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3414,
+            "albumId": 335,
+            "foreignReleaseId": "6d4cecbb-d460-48e5-b0dc-0d385486757f",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3750300,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "remastered",
+            "country": [],
+            "label": [
+              "Blackened",
+              "Universal Music"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3415,
+            "albumId": 335,
+            "foreignReleaseId": "0b5931cf-9157-4923-a216-7ee4497beb5c",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 12350151,
+            "trackCount": 39,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Metallica (remastered)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Riffs, Demos, Rough Mixes, & Easy Listening Music",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Wherever We May Roam",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 3,
+            "disambiguation": "expanded edition",
+            "country": [
+              "Canada",
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "3xDigital Media",
+            "monitored": false
+          },
+          {
+            "id": 3416,
+            "albumId": 335,
+            "foreignReleaseId": "a8718c50-b489-43d3-ae2a-1af14ea51f47",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3759000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Canada",
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3417,
+            "albumId": 335,
+            "foreignReleaseId": "11c5d045-ef45-4aaa-ba38-e43fd82a6345",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 56313226,
+            "trackCount": 193,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Metallica (remastered)",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Live at Wembley Stadium, London, England — April 20th, 1992",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Live at Tushino Airfield, Moscow, Russia — September 28th, 1991",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 4,
+                "mediumName": "Riffs & Demos",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 5,
+                "mediumName": "Riffs & Demos",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 6,
+                "mediumName": "Pre‐Production Rehearsals + Radio Edits",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 7,
+                "mediumName": "Rough & Alternate Mixes",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 8,
+                "mediumName": "Rough & Alternate Mixes",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 9,
+                "mediumName": "Some Shit From Day on the Green, Oakland, CA — October 12th, 1991",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 10,
+                "mediumName": "Live at Arco Arena, Sacramento, CA — January 11th, 1992",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 11,
+                "mediumName": "Live at Arco Arena, Sacramento, CA — January 11th, 1992",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 12,
+                "mediumName": "Live at Arco Arena, Sacramento, CA, January 11th, 1992 + Covers + B‐Sides",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 13,
+                "mediumName": "Live at Maimarktgelände, Mannheim, Germany — May 22nd, 1993",
+                "mediumFormat": "Digital Media"
+              },
+              {
+                "mediumNumber": 14,
+                "mediumName": "Live at Maimarktgelände, Mannheim, Germany — May 22nd, 1993",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 14,
+            "disambiguation": "remastered deluxe boxset",
+            "country": [
+              "Canada",
+              "Puerto Rico",
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "14xDigital Media",
+            "monitored": false
+          },
+          {
+            "id": 3418,
+            "albumId": 335,
+            "foreignReleaseId": "15e19751-05cd-49c6-a27b-17f0747d35af",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 12136027,
+            "trackCount": 39,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Metallica Remastered",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Riffs, Demos, Rough Mixes, & Easy Listening Music",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Wherever We May Roam",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 3,
+            "disambiguation": "remastered expanded edition",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "3xCD",
+            "monitored": false
+          },
+          {
+            "id": 3419,
+            "albumId": 335,
+            "foreignReleaseId": "f241fc96-6f6c-44a8-bfb7-4b880f347470",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757492,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Canada",
+              "United States"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          },
+          {
+            "id": 3420,
+            "albumId": 335,
+            "foreignReleaseId": "6fb7529f-6c88-436b-ba28-ea5af4315863",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3736000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "SHM-CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Japan"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "SHM-CD",
+            "monitored": false
+          },
+          {
+            "id": 21187,
+            "albumId": 335,
+            "foreignReleaseId": "dac6d29f-52e7-4ba3-b13d-0e18841ee2fd",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3757303,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "Made in Germany by EDC",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 21236,
+            "albumId": 335,
+            "foreignReleaseId": "f3b74ccb-7a04-4900-997a-82640f8b9b81",
+            "title": "Metallica",
+            "status": "Official",
+            "duration": 3758328,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "Digital Media"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "remastered 2021",
+            "country": [
+              "[Worldwide]"
+            ],
+            "label": [
+              "Blackened",
+              "Universal Music"
+            ],
+            "format": "Digital Media",
+            "monitored": false
+          }
+        ],
+        "genres": [
+          "Heavy Metal",
+          "Hard Rock",
+          "Metal",
+          "Rock",
+          "Thrash Metal"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/1f641922-f9a7-4a6b-8351-74c27812f94f/30375488274-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          },
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/264b958d-e9fd-4cde-9759-e9d40df12a94/22788509630-1200.jpg",
+            "coverType": "disc",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.discogs.com/master/6651",
+            "name": "discogs"
+          },
+          {
+            "url": "https://www.bbc.co.uk/music/reviews/8b8c",
+            "name": "bbc"
+          },
+          {
+            "url": "https://www.allmusic.com/album/mw0000311315",
+            "name": "allmusic"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q213516",
+            "name": "wikidata"
+          },
+          {
+            "url": "https://rateyourmusic.com/release/album/metallica/metallica/",
+            "name": "rateyourmusic"
+          },
+          {
+            "url": "https://genius.com/albums/Metallica/Metallica",
+            "name": "genius"
+          },
+          {
+            "url": "https://www.musik-sammler.de/album/1470/",
+            "name": "musik-sammler"
+          },
+          {
+            "url": "https://www.spirit-of-metal.com/en/album/Metallica/624",
+            "name": "spirit-of-metal"
+          },
+          {
+            "url": "https://www.offiziellecharts.de/charts/album-details-1282",
+            "name": "offiziellecharts"
+          },
+          {
+            "url": "https://www.progarchives.com/album.asp?id=19921",
+            "name": "progarchives"
+          },
+          {
+            "url": "https://pitchfork.com/reviews/albums/metallica-metallica/",
+            "name": "pitchfork"
+          },
+          {
+            "url": "https://www.metalmusicarchives.com/album/metallica/metallica",
+            "name": "metalmusicarchives"
+          }
+        ],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/1f641922-f9a7-4a6b-8351-74c27812f94f/30375488274-1200.jpg",
+        "id": 335
+      },
+      "id": 2
+    },
+    {
+      "foreignId": "193f0680-c4a6-3dc2-90a8-45bb3916a0f5",
+      "album": {
+        "title": "17 Years in the Life of Metallica",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "193f0680-c4a6-3dc2-90a8-45bb3916a0f5",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 13789000,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Compilation"
+        ],
+        "mediumCount": 3,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "0001-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "04b00cfd-7e2e-48fb-b8aa-db3c02745d5f",
+            "title": "17 Years in the Life of Metallica",
+            "status": "Bootleg",
+            "duration": 13789000,
+            "trackCount": 40,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "Unknown",
+                "mediumFormat": "Unknown"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "Unknown",
+                "mediumFormat": "Unknown"
+              },
+              {
+                "mediumNumber": 3,
+                "mediumName": "Unknown",
+                "mediumFormat": "Unknown"
+              }
+            ],
+            "mediumCount": 3,
+            "disambiguation": "",
+            "country": [],
+            "label": [],
+            "format": "3xUnknown",
+            "monitored": true
+          }
+        ],
+        "genres": [
+          "Metal",
+          "Heavy Metal",
+          "Alternative Rock",
+          "Hard Rock",
+          "Thrash Metal"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "Unknown",
+            "mediumFormat": "Unknown"
+          },
+          {
+            "mediumNumber": 2,
+            "mediumName": "Unknown",
+            "mediumFormat": "Unknown"
+          },
+          {
+            "mediumNumber": 3,
+            "mediumName": "Unknown",
+            "mediumFormat": "Unknown"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/04b00cfd-7e2e-48fb-b8aa-db3c02745d5f/6947434790-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/04b00cfd-7e2e-48fb-b8aa-db3c02745d5f/6947434790-1200.jpg"
+      },
+      "id": 3
+    },
+    {
+      "foreignId": "9c7cc330-f7ed-4f97-b0fb-cd56b15de1a5",
+      "album": {
+        "title": "Metallicaction",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "9c7cc330-f7ed-4f97-b0fb-cd56b15de1a5",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 4283023,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Compilation"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "0001-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "16123436-4d70-43d3-a7ed-0c08bfbd2084",
+            "title": "Metallicaction",
+            "status": "Bootleg",
+            "duration": 4283023,
+            "trackCount": 15,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Sweden"
+            ],
+            "label": [],
+            "format": "CD",
+            "monitored": true
+          }
+        ],
+        "genres": [],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [],
+        "links": []
+      },
+      "id": 4
+    },
+    {
+      "foreignId": "6913e5af-1635-4625-8c85-9c1d0122f6b4",
+      "album": {
+        "title": "Metallica Live in Concert",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "6913e5af-1635-4625-8c85-9c1d0122f6b4",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 4530000,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Live"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "0001-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "8c67a11b-ce3c-4ff5-bb2d-15f0207b75ef",
+            "title": "Metallica Live in concert",
+            "status": "Official",
+            "duration": 4530000,
+            "trackCount": 12,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD-R"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [],
+            "format": "CD-R",
+            "monitored": true
+          }
+        ],
+        "genres": [],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD-R"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [],
+        "links": []
+      },
+      "id": 5
+    },
+    {
+      "foreignId": "953dddcf-db25-4af1-9699-552ed47b14aa",
+      "album": {
+        "title": "Liberté, Égalité, Fraternité, Metallica!",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "953dddcf-db25-4af1-9699-552ed47b14aa",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 3788997,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Live"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "2016-04-16T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "dc11e154-e699-4585-9a18-80cbe291042f",
+            "title": "Liberté, Égalité, Fraternité, Metallica!",
+            "status": "Official",
+            "duration": 3788997,
+            "trackCount": 9,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Blackened"
+            ],
+            "format": "CD",
+            "monitored": true
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/dc11e154-e699-4585-9a18-80cbe291042f/14738699460-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/dc11e154-e699-4585-9a18-80cbe291042f/14738699460-1200.jpg"
+      },
+      "id": 6
+    },
+    {
+      "foreignId": "3c297f44-7163-4c89-b94a-e68da7f4ff09",
+      "album": {
+        "title": "Mandatory Metallica",
+        "disambiguation": "2",
+        "artistId": 172,
+        "foreignAlbumId": "3c297f44-7163-4c89-b94a-e68da7f4ff09",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 6065567,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Compilation"
+        ],
+        "mediumCount": 2,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "1997-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "e1690e10-fd98-46eb-b767-b7a3bb66168f",
+            "title": "Mandatory Metallica",
+            "status": "Promotion",
+            "duration": 6065567,
+            "trackCount": 17,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "2xCD",
+            "monitored": true
+          },
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "7ba0d89d-e744-4e57-8a21-3dd1166aedc2",
+            "title": "Mandatory 2",
+            "status": "Promotion",
+            "duration": 6049000,
+            "trackCount": 17,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              },
+              {
+                "mediumNumber": 2,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 2,
+            "disambiguation": "",
+            "country": [
+              "Europe"
+            ],
+            "label": [
+              "Vertigo"
+            ],
+            "format": "2xCD",
+            "monitored": false
+          }
+        ],
+        "genres": [
+          "Heavy Metal",
+          "Rock"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          },
+          {
+            "mediumNumber": 2,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/e1690e10-fd98-46eb-b767-b7a3bb66168f/15188954691-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.discogs.com/master/666389",
+            "name": "discogs"
+          }
+        ],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/e1690e10-fd98-46eb-b767-b7a3bb66168f/15188954691-1200.jpg"
+      },
+      "id": 7
+    },
+    {
+      "foreignId": "4cd79d44-88dd-4050-a337-5f7c58050dce",
+      "album": {
+        "title": "Mandatory Metallica 03",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "4cd79d44-88dd-4050-a337-5f7c58050dce",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 3902799,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Compilation"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "2003-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "71d8d5a8-5a29-4e41-bd72-671918eeec15",
+            "title": "Mandatory Metallica 03",
+            "status": "Promotion",
+            "duration": 3902799,
+            "trackCount": 11,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": true
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/71d8d5a8-5a29-4e41-bd72-671918eeec15/20432090415-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/71d8d5a8-5a29-4e41-bd72-671918eeec15/20432090415-1200.jpg"
+      },
+      "id": 8
+    },
+    {
+      "foreignId": "02546843-b2b1-4c7f-a31a-23c31e8133bc",
+      "album": {
+        "title": "Mandatory Metallica",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "02546843-b2b1-4c7f-a31a-23c31e8133bc",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 3128000,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Compilation"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "1988-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "47e805c4-1c7f-44c1-a122-06b721e5692f",
+            "title": "Mandatory Metallica",
+            "status": "Promotion",
+            "duration": 2830000,
+            "trackCount": 7,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": false
+          },
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "3a94cd49-a866-4bae-99f4-703bb60f4aba",
+            "title": "Mandatory Metallica",
+            "status": "Promotion",
+            "duration": 3128000,
+            "trackCount": 8,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "",
+            "country": [
+              "United States"
+            ],
+            "label": [
+              "Elektra"
+            ],
+            "format": "CD",
+            "monitored": true
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [],
+        "links": [
+          {
+            "url": "https://www.discogs.com/master/666390",
+            "name": "discogs"
+          }
+        ]
+      },
+      "id": 9
+    },
+    {
+      "foreignId": "dd4b2235-a53c-4da5-b2f9-6d438b3a6229",
+      "album": {
+        "title": "Metallica",
+        "disambiguation": "",
+        "artistId": 172,
+        "foreignAlbumId": "dd4b2235-a53c-4da5-b2f9-6d438b3a6229",
+        "monitored": false,
+        "anyReleaseOk": true,
+        "profileId": 0,
+        "duration": 3222000,
+        "albumType": "Album",
+        "secondaryTypes": [
+          "Live"
+        ],
+        "mediumCount": 1,
+        "ratings": {
+          "votes": 0,
+          "value": 0
+        },
+        "releaseDate": "1996-01-01T00:00:00Z",
+        "releases": [
+          {
+            "id": 0,
+            "albumId": 0,
+            "foreignReleaseId": "b92d8d98-790e-48e8-876a-27b82aa17d80",
+            "title": "Metallica",
+            "status": "Bootleg",
+            "duration": 3222000,
+            "trackCount": 8,
+            "media": [
+              {
+                "mediumNumber": 1,
+                "mediumName": "",
+                "mediumFormat": "CD"
+              }
+            ],
+            "mediumCount": 1,
+            "disambiguation": "Artist Name etched in red in Acryl Package",
+            "country": [
+              "Germany"
+            ],
+            "label": [
+              "Imtrat",
+              "Live & Alive",
+              "PR‐Records"
+            ],
+            "format": "CD",
+            "monitored": true
+          }
+        ],
+        "genres": [],
+        "media": [
+          {
+            "mediumNumber": 1,
+            "mediumName": "",
+            "mediumFormat": "CD"
+          }
+        ],
+        "artist": {
+          "status": "continuing",
+          "ended": false,
+          "artistName": "Metallica",
+          "foreignArtistId": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+          "tadbId": 0,
+          "discogsId": 0,
+          "overview": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+          "artistType": "Group",
+          "disambiguation": "",
+          "links": [
+            {
+              "url": "https://www.metallica.com/",
+              "name": "metallica"
+            },
+            {
+              "url": "https://www.discogs.com/artist/18839",
+              "name": "discogs"
+            },
+            {
+              "url": "https://myspace.com/metallica",
+              "name": "myspace"
+            },
+            {
+              "url": "https://www.metal-archives.com/bands/Metallica/125",
+              "name": "metal-archives"
+            },
+            {
+              "url": "https://www.imdb.com/name/nm0582376/",
+              "name": "imdb"
+            },
+            {
+              "url": "http://www.purevolume.com/metallica",
+              "name": "purevolume"
+            },
+            {
+              "url": "https://www.bbc.co.uk/music/artists/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "name": "bbc"
+            },
+            {
+              "url": "https://twitter.com/Metallica",
+              "name": "twitter"
+            },
+            {
+              "url": "https://www.allmusic.com/artist/mn0000446509",
+              "name": "allmusic"
+            },
+            {
+              "url": "https://www.facebook.com/Metallica",
+              "name": "facebook"
+            },
+            {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "last"
+            },
+            {
+              "url": "https://secondhandsongs.com/artist/211",
+              "name": "secondhandsongs"
+            },
+            {
+              "url": "http://viaf.org/viaf/270856862",
+              "name": "viaf"
+            },
+            {
+              "url": "https://www.wikidata.org/wiki/Q15920",
+              "name": "wikidata"
+            },
+            {
+              "url": "https://rateyourmusic.com/artist/metallica",
+              "name": "rateyourmusic"
+            },
+            {
+              "url": "https://plus.google.com/116287157852669694516",
+              "name": "google"
+            },
+            {
+              "url": "https://soundcloud.com/loureedmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://soundcloud.com/officialmetallica",
+              "name": "soundcloud"
+            },
+            {
+              "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "spotify"
+            },
+            {
+              "url": "http://soundtrackcollector.com/composer/6284/",
+              "name": "soundtrackcollector"
+            },
+            {
+              "url": "http://www.pandora.com/metallica",
+              "name": "pandora"
+            },
+            {
+              "url": "https://genius.com/artists/Metallica",
+              "name": "genius"
+            },
+            {
+              "url": "https://imvdb.com/n/metallica",
+              "name": "imvdb"
+            },
+            {
+              "url": "https://www.45cat.com/artist/metallica",
+              "name": "45cat"
+            },
+            {
+              "url": "https://www.whosampled.com/Metallica/",
+              "name": "whosampled"
+            },
+            {
+              "url": "https://itunes.apple.com/us/artist/id3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html",
+              "name": "setlist"
+            },
+            {
+              "url": "https://www.bandsintown.com/a/128",
+              "name": "bandsintown"
+            },
+            {
+              "url": "https://us.7digital.com/artist/metallica",
+              "name": "7digital"
+            },
+            {
+              "url": "https://play.google.com/store/music/artist?id=Asofl5rpj6oa6kxnwsb5oqnpasi",
+              "name": "google"
+            },
+            {
+              "url": "https://www.deezer.com/artist/119",
+              "name": "deezer"
+            },
+            {
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb13904963g",
+              "name": "bnf"
+            },
+            {
+              "url": "https://d-nb.info/gnd/2126186-6",
+              "name": "d-nb"
+            },
+            {
+              "url": "https://www.songkick.com/artists/331163",
+              "name": "songkick"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://www.livemetallica.com/",
+              "name": "livemetallica"
+            },
+            {
+              "url": "https://openlibrary.org/authors/OL2853227A/",
+              "name": "openlibrary"
+            },
+            {
+              "url": "http://id.loc.gov/authorities/names/n91114928",
+              "name": "loc"
+            },
+            {
+              "url": "https://www.musik-sammler.de/artist/metallica/",
+              "name": "musik-sammler"
+            },
+            {
+              "url": "https://www.instagram.com/metallica/",
+              "name": "instagram"
+            },
+            {
+              "url": "https://music.amazon.com/artists/B000QJPIHU",
+              "name": "amazon"
+            },
+            {
+              "url": "https://www.livefans.jp/artists/2583",
+              "name": "livefans"
+            },
+            {
+              "url": "https://www.musixmatch.com/artist/Metallica",
+              "name": "musixmatch"
+            },
+            {
+              "url": "https://us.napster.com/artist/metallica",
+              "name": "napster"
+            },
+            {
+              "url": "https://tidal.com/artist/8405",
+              "name": "tidal"
+            },
+            {
+              "url": "https://www.cdjapan.co.jp/person/700289058",
+              "name": "co"
+            },
+            {
+              "url": "https://www.hdtracks.com/#/artist/Metallica",
+              "name": "hdtracks"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.apple.com/us/artist/3996865",
+              "name": "apple"
+            },
+            {
+              "url": "https://music.migu.cn/v3/music/artist/33037",
+              "name": "migu"
+            },
+            {
+              "url": "https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.yesasia.com/0-aid438253-0-bpt.47-en/list.html",
+              "name": "yesasia"
+            },
+            {
+              "url": "https://www.muziekweb.nl/Link/M00000097784/POPULAR/",
+              "name": "muziekweb"
+            },
+            {
+              "url": "https://mora.jp/artist/79/all",
+              "name": "mora"
+            },
+            {
+              "url": "https://www.junodownload.com/artists/Metallica/releases/",
+              "name": "junodownload"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.youtube.com/channel/UCGWbjzTUjQKnIyhelv5PwsQ",
+              "name": "youtube"
+            },
+            {
+              "url": "https://www.tiktok.com/@metallica",
+              "name": "tiktok"
+            },
+            {
+              "url": "https://www.progarchives.com/artist.asp?id=4022",
+              "name": "progarchives"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.qobuz.com/us-en/interpreter/metallica/62542",
+              "name": "qobuz"
+            },
+            {
+              "url": "https://www.threads.com/@metallica",
+              "name": "threads"
+            },
+            {
+              "url": "https://www.ticketmaster.com/artist/735647",
+              "name": "ticketmaster"
+            },
+            {
+              "url": "https://muzikum.eu/en/metallica/lyrics",
+              "name": "muzikum"
+            },
+            {
+              "url": "https://musicmoz.org/Bands_and_Artists/M/Metallica/",
+              "name": "musicmoz"
+            },
+            {
+              "url": "https://www.spirit-of-metal.com/en/band/Metallica",
+              "name": "spirit-of-metal"
+            },
+            {
+              "url": "https://id.oclc.org/worldcat/entity/E39QQPVp83pWyyXx9qfGg4KJvR",
+              "name": "oclc"
+            },
+            {
+              "url": "https://www.boomplay.com/artists/1912827",
+              "name": "boomplay"
+            },
+            {
+              "url": "https://bsky.app/profile/metallica.com",
+              "name": "bsky"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/261890",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://ototoy.jp/_/default/a/291211",
+              "name": "ototoy"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.melon.com/artist/detail.htm?artistId=100288",
+              "name": "melon"
+            },
+            {
+              "url": "https://www.metalmusicarchives.com/artist/metallica",
+              "name": "metalmusicarchives"
+            }
+          ],
+          "nextAlbum": null,
+          "lastAlbum": null,
+          "images": [
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/fanart/gq5lpu1757859906.jpg",
+              "coverType": "fanart",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/banner/uwrurq1349458918.jpg",
+              "coverType": "banner",
+              "extension": ".jpg"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/logo/bvuyna1615931586.png",
+              "coverType": "clearlogo",
+              "extension": ".png"
+            },
+            {
+              "url": "https://r2.theaudiodb.com/images/media/artist/thumb/qyuqvy1375623610.jpg",
+              "coverType": "poster",
+              "extension": ".jpg"
+            }
+          ],
+          "path": "/data/music/Metallica",
+          "qualityProfileId": 2,
+          "metadataProfileId": 1,
+          "monitored": true,
+          "monitorNewItems": "all",
+          "folder": "Metallica",
+          "genres": [
+            "Thrash Metal",
+            "Heavy Metal",
+            "Metal",
+            "Hard Rock"
+          ],
+          "cleanName": "metallica",
+          "sortName": "metallica",
+          "tags": [],
+          "added": "2025-11-10T16:41:01Z",
+          "ratings": {
+            "votes": 73,
+            "value": 8.3
+          },
+          "id": 172
+        },
+        "images": [
+          {
+            "url": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/b92d8d98-790e-48e8-876a-27b82aa17d80/21070449626-1200.jpg",
+            "coverType": "cover",
+            "extension": ".jpg"
+          }
+        ],
+        "links": [],
+        "remoteCover": "https://images.lidarr.audio/cache/https://coverartarchive.org/release/b92d8d98-790e-48e8-876a-27b82aa17d80/21070449626-1200.jpg"
+      },
+      "id": 10
+    }
+  ]
+]
