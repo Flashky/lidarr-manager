@@ -1,4 +1,4 @@
-package com.lolomander.manager.lidarr.api.model.common;
+package com.lolomander.manager.lidarr.api.model.artist;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 import lombok.Getter;

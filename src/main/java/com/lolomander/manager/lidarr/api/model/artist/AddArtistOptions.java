@@ -2,7 +2,6 @@ package com.lolomander.manager.lidarr.api.model.artist;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.lolomander.manager.lidarr.api.model.common.MonitorTypes;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

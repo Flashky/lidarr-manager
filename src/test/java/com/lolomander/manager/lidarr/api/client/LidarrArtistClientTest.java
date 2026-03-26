@@ -2,7 +2,7 @@ package com.lolomander.manager.lidarr.api.client;
 
 import com.lolomander.manager.lidarr.api.model.artist.AddArtistOptions;
 import com.lolomander.manager.lidarr.api.model.artist.ArtistResource;
-import com.lolomander.manager.lidarr.api.model.common.MonitorTypes;
+import com.lolomander.manager.lidarr.api.model.artist.MonitorTypes;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 import okhttp3.mockwebserver.RecordedRequest;
